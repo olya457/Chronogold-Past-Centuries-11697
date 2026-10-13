@@ -1,0 +1,2784 @@
+{
+  "ages": [
+    {
+      "id": "age-1",
+      "title": "New Kingdom of Egypt",
+      "civilization": "Ancient Egypt",
+      "date": "c. 1550 BCE–1070 BCE",
+      "duration": "About 480 years",
+      "description": "The New Kingdom was the period when ancient Egypt reached its greatest territorial power, military influence, and monumental ambition. Egyptian armies pushed deep into Nubia and the Levant, while immense wealth flowed into the royal court and the temples of major gods such as Amun. Pharaohs used this prosperity to construct enormous temples, tombs, obelisks, and ceremonial complexes that still define the visual image of ancient Egypt today. It was also a period of intense diplomacy, international trade, religious change, and competition among some of the most famous rulers in Egyptian history.",
+      "achievements": "Expansion of Egyptian influence into Nubia and the eastern Mediterranean\nConstruction and enlargement of the Karnak and Luxor temple complexes\nDevelopment of the Valley of the Kings as the principal royal burial ground\nExtensive diplomatic relations with other major Bronze Age powers\nMonumental building projects under rulers such as Hatshepsut and Ramesses II\nGrowth of long-distance trade in gold, incense, timber, luxury goods, and exotic materials",
+      "figures": "Hatshepsut, Thutmose III, Akhenaten, Tutankhamun, Seti I, Ramesses II",
+      "flourished": "Egypt benefited from a strong centralized monarchy, control of the Nile Valley, access to Nubian gold, successful military campaigns, productive agriculture, and extensive trade networks. Wealth from conquered regions and tribute helped finance temples, armies, workshops, and royal construction.",
+      "declined": "Internal political instability, costly military commitments, pressure from foreign groups, economic difficulties, and weakening central authority gradually reduced royal control. By the end of the 20th Dynasty, Egypt had entered a more fragmented political period.",
+      "related": "Composite bows, advanced chariot warfare, monumental stone architecture, improved glassmaking, sophisticated diplomatic correspondence",
+      "start": -1550,
+      "end": -1070
+    },
+    {
+      "id": "age-2",
+      "title": "Achaemenid Persian Empire",
+      "civilization": "Ancient Persia",
+      "date": "c. 550 BCE–330 BCE",
+      "duration": "About 220 years",
+      "description": "The Achaemenid Empire created one of the largest political systems the ancient world had yet seen, stretching at its height from parts of the Balkans and Egypt to Central Asia and the Indus Valley. Rather than governing every region in exactly the same way, Persian rulers relied on provincial administration, local elites, taxation systems, roads, messengers, and royal representatives. This flexible imperial structure allowed many languages, religions, and traditions to coexist within a single political framework while maintaining communication across enormous distances.",
+      "achievements": "Creation of an empire spanning three continents\nDevelopment of the Royal Road and imperial courier network\nConstruction of Persepolis\nOrganization of provinces known as satrapies\nStandardization of important elements of taxation and administration",
+      "figures": "Cyrus the Great, Darius I, Xerxes I",
+      "flourished": "Effective administration, military power, long-distance roads, flexible treatment of local traditions, and control of major trade routes allowed the empire to govern vast territories while collecting considerable resources.",
+      "declined": "Dynastic struggles, rebellions, military expenses, and competition among regional elites weakened imperial cohesion. Alexander the Great's Macedonian invasion eventually destroyed Achaemenid political control.",
+      "related": "Imperial road systems, standardized coinage, large-scale administrative record keeping, courier networks",
+      "start": -550,
+      "end": -330
+    },
+    {
+      "id": "age-3",
+      "title": "Han Dynasty Golden Age",
+      "civilization": "Imperial China",
+      "date": "206 BCE–220 CE",
+      "duration": "About 426 years, including an interruption between the Western and Eastern Han",
+      "description": "The Han period established political, administrative, and cultural patterns that influenced China for centuries. The state expanded into Central Asia, strengthened long-distance trade routes later associated with the Silk Road, and developed a professional bureaucracy supported by Confucian learning. Agriculture, metallurgy, astronomy, mathematics, paper production, and state administration all advanced considerably. The dynasty became so influential that the term “Han” later became closely associated with the majority ethnic identity of China.",
+      "achievements": "Expansion of Chinese influence into Central Asia\nDevelopment of Silk Road connections\nConsolidation of Confucian state ideology\nMajor advances in astronomy, mathematics, metallurgy, and engineering\nEarly production and spread of paper\nDevelopment of sophisticated census and taxation systems\nExpansion of state schools and administrative institutions",
+      "figures": "Emperor Gaozu, Emperor Wu, Zhang Qian, Sima Qian, Cai Lun, Zhang Heng",
+      "flourished": "A large agricultural base, centralized administration, productive taxation, military expansion, trade networks, and a professional bureaucracy helped support a stable and wealthy imperial state.",
+      "declined": "Court factionalism, struggles between officials and eunuchs, powerful landowners, heavy taxation, peasant unrest, and regional military commanders gradually weakened central authority.",
+      "related": "Paper, seismological instruments, improved iron casting, wheelbarrow technology, astronomical instruments",
+      "start": -206,
+      "end": 220
+    },
+    {
+      "id": "age-4",
+      "title": "Gupta Golden Age",
+      "civilization": "Ancient India",
+      "date": "c. 320–550 CE",
+      "duration": "About 230 years",
+      "description": "The Gupta period is frequently described as a classical age of northern India because of its achievements in mathematics, astronomy, literature, art, religion, and scholarship. Political stability across substantial parts of northern India supported intellectual and commercial activity, while Sanskrit culture flourished at royal courts. Mathematical ideas developed during this wider intellectual tradition would later have enormous influence far beyond India.",
+      "achievements": "Important advances in mathematics and astronomy\nFlourishing Sanskrit literature\nDevelopment of influential Hindu temple architecture\nStrong traditions of sculpture, painting, and metalwork\nExpansion of regional and international trade",
+      "figures": "Chandragupta I, Samudragupta, Chandragupta II, Kalidasa, Aryabhata",
+      "flourished": "Political stability, productive agriculture, trade, royal patronage, urban centers, and support for scholarship created favorable conditions for cultural and scientific activity.",
+      "declined": "Pressure from invading groups, regional fragmentation, reduced central authority, and changing economic conditions weakened Gupta power during the fifth and sixth centuries.",
+      "related": "Mathematical place-value traditions, astronomical calculation methods, advanced metallurgy, developments in numeral notation",
+      "start": 320,
+      "end": 550
+    },
+    {
+      "id": "age-5",
+      "title": "Tang China",
+      "civilization": "Imperial China",
+      "date": "618–907 CE",
+      "duration": "289 years",
+      "description": "Tang China became one of the most cosmopolitan and culturally influential societies of the medieval world. Its capital, Chang'an, attracted merchants, diplomats, religious communities, artists, and travelers from across Asia. The dynasty expanded Chinese political influence, strengthened the civil service system, supported poetry and painting, and benefited from extensive Silk Road commerce. Tang culture later exerted major influence on neighboring Korea, Japan, Vietnam, and other regions.",
+      "achievements": "Chang'an developed into one of the world's largest and most international cities\nExpansion of Silk Road trade\nFlourishing of Chinese poetry\nGrowth of woodblock printing\nDevelopment of ceramics and decorative arts\nExpansion of the imperial examination system",
+      "figures": "Emperor Taizong, Empress Wu Zetian, Emperor Xuanzong, Li Bai, Du Fu",
+      "flourished": "Strong government institutions, agricultural productivity, international trade, urbanization, military expansion, and cultural openness helped create exceptional economic and cultural growth.",
+      "declined": "The An Lushan Rebellion severely weakened the dynasty. Regional military governors gained increasing autonomy, tax revenues declined, court conflicts intensified, and rebellions further damaged central authority.",
+      "related": "Woodblock printing, improved ceramics, advances in medicine, mechanical timekeeping, early gunpowder experimentation",
+      "start": 618,
+      "end": 907
+    },
+    {
+      "id": "age-6",
+      "title": "Abbasid Golden Age",
+      "civilization": "Abbasid Caliphate",
+      "date": "c. 750–1258 CE",
+      "duration": "About 500 years, with the strongest intellectual and political flourishing concentrated in the earlier centuries",
+      "description": "Under the Abbasids, cities such as Baghdad became major centers of scholarship, commerce, medicine, mathematics, astronomy, philosophy, and literature. Scholars working in Arabic translated and studied Greek, Persian, Indian, and other intellectual traditions while also producing important original research. Extensive trade networks connected the Mediterranean, Middle East, East Africa, Central Asia, India, and beyond. The period was especially important for the preservation, development, and transmission of scientific and philosophical knowledge.",
+      "achievements": "Establishment of Baghdad as a major intellectual and commercial center\nLarge translation movement involving Greek, Persian, and Indian works\nMajor advances in algebra and mathematics\nDevelopment of hospitals and medical scholarship\nProgress in astronomy and geographical study\nExpansion of paper production and manuscript culture\nGrowth of international trade networks\nImportant contributions to optics, chemistry, philosophy, and engineering",
+      "figures": "Al-Khwarizmi, Al-Kindi, Al-Razi, Al-Farabi, Ibn al-Haytham, Al-Biruni",
+      "flourished": "Trade wealth, large cities, patronage of scholars, access to knowledge from many cultures, widespread use of paper, and strong intellectual networks supported rapid development in science and literature.",
+      "declined": "Political fragmentation gradually reduced the caliphs' direct power. Rival dynasties gained control over different regions, while warfare and economic disruption weakened Baghdad. The Mongol capture of Baghdad in 1258 marked a major political rupture.",
+      "related": "Algebraic methods, advanced astronomical instruments, hospital organization, optical experimentation, paper-based scholarly networks",
+      "start": 750,
+      "end": 1258
+    },
+    {
+      "id": "age-7",
+      "title": "Mali Empire under Mansa Musa",
+      "civilization": "Mali Empire",
+      "date": "c. 1312–1337 CE",
+      "duration": "About 25 years for Mansa Musa's reign, within a much longer imperial history",
+      "description": "During the reign of Mansa Musa, Mali became internationally famous for its wealth, control of major trans-Saharan trade routes, and access to West African gold resources. Cities such as Timbuktu and Gao grew as centers of commerce and Islamic scholarship. Mansa Musa's pilgrimage to Mecca dramatically increased awareness of Mali across North Africa and the Mediterranean world and connected the empire more closely with international intellectual and commercial networks.",
+      "achievements": "Expansion and consolidation of Mali's political influence\nControl of important gold and trans-Saharan trade routes\nGrowth of Timbuktu as a commercial and scholarly center\nMajor mosque and architectural patronage\nStronger connections with North Africa and the wider Islamic world",
+      "figures": "Mansa Musa, Abu Ishaq al-Sahili",
+      "flourished": "Control of valuable gold-producing regions, taxation of trade, agriculture along the Niger River, strategic cities, and access to trans-Saharan commercial networks generated considerable wealth.",
+      "declined": "Later succession disputes, regional rebellions, changing trade patterns, military pressure from neighboring powers, and the rise of Songhai gradually weakened Mali's control.",
+      "related": "Trans-Saharan commercial systems, manuscript scholarship, Sudano-Sahelian architectural traditions",
+      "start": 1312,
+      "end": 1337
+    },
+    {
+      "id": "age-8",
+      "title": "Ottoman Golden Age",
+      "civilization": "Ottoman Empire",
+      "date": "c. 1453–1566 CE",
+      "duration": "About 113 years",
+      "description": "From the conquest of Constantinople to the end of Suleiman the Magnificent's reign, the Ottoman Empire expanded into a major Mediterranean, European, Middle Eastern, and North African power. Constantinople, renamed and developed as the imperial capital Istanbul, became a center of administration, commerce, architecture, scholarship, and craft production. Ottoman institutions combined military organization, provincial administration, taxation, law, and court culture on an enormous scale.",
+      "achievements": "Capture and transformation of Constantinople into a major imperial capital\nLarge territorial expansion across southeastern Europe and the Middle East\nDevelopment of monumental Ottoman architecture\nStrong administrative and legal institutions\nExpansion of Mediterranean and overland trade\nMajor achievements in ceramics, calligraphy, textiles, and manuscript arts",
+      "figures": "Mehmed II, Selim I, Suleiman the Magnificent, Mimar Sinan, Hayreddin Barbarossa",
+      "flourished": "A powerful military, strategic control of trade routes, efficient taxation, a large agricultural base, administrative flexibility, and capable rulers supported rapid expansion and wealth.",
+      "declined": "The empire did not suddenly collapse after its classical age, but later faced increasingly difficult military competition, court struggles, fiscal pressures, provincial challenges, and structural changes in global trade.",
+      "related": "Large-scale cannon warfare, advanced mosque engineering, cartography, naval technology, sophisticated administrative record systems",
+      "start": 1453,
+      "end": 1566
+    },
+    {
+      "id": "age-9",
+      "title": "Mughal Cultural Golden Age",
+      "civilization": "Mughal Empire",
+      "date": "c. 1556–1707 CE",
+      "duration": "About 151 years",
+      "description": "From Akbar to Aurangzeb, the Mughal Empire controlled much of the Indian subcontinent and supported one of the early modern world's richest court cultures. Persian, Central Asian, and Indian traditions interacted in painting, architecture, literature, administration, textiles, and cuisine. Enormous agricultural revenues financed palaces, forts, gardens, mosques, mausoleums, workshops, and a powerful imperial army.",
+      "achievements": "Construction of major monuments including the Taj Mahal\nDevelopment of Mughal miniature painting\nSophisticated imperial administration and taxation\nExpansion of textile production and international commerce\nConstruction of forts, gardens, palaces, and planned urban spaces\nCultural blending of Persian, Central Asian, and Indian traditions",
+      "figures": "Akbar, Jahangir, Shah Jahan, Aurangzeb",
+      "flourished": "Rich agricultural regions, large urban markets, textile exports, efficient revenue collection, extensive commercial connections, and strong imperial patronage created enormous economic and cultural resources.",
+      "declined": "Long wars, fiscal pressure, succession conflicts, regional resistance, and increasing autonomy of provincial powers gradually weakened central control during the eighteenth century.",
+      "related": "Advanced textile production, garden design, miniature painting techniques, monumental marble architecture",
+      "start": 1556,
+      "end": 1707
+    },
+    {
+      "id": "age-10",
+      "title": "Dutch Golden Age",
+      "date": "c. 1588–1672 CE",
+      "duration": "About 84 years",
+      "description": "During the seventeenth century, the Dutch Republic became a major commercial, maritime, financial, artistic, and scientific power despite its relatively small population and territory. Amsterdam emerged as one of Europe's leading trading and financial centers. Dutch merchants operated across the Atlantic and Indian Oceans, while painters, mapmakers, instrument makers, scientists, printers, and engineers created an unusually dynamic urban culture. This prosperity was also deeply connected to colonial expansion, warfare, and exploitative systems of overseas trade.",
+      "achievements": "Development of Amsterdam as an international financial center\nExpansion of global maritime trade\nMajor advances in cartography and navigation\nExceptional flourishing of painting\nInnovation in banking and commercial finance\nGrowth of printing, publishing, and scientific instrument making\nLarge-scale hydraulic engineering and land reclamation",
+      "figures": "Rembrandt van Rijn, Johannes Vermeer, Christiaan Huygens, Antonie van Leeuwenhoek, Hugo Grotius",
+      "flourished": "Commercial networks, maritime technology, urbanization, financial innovation, skilled labor, immigration, and access to international markets helped the Dutch Republic accumulate extraordinary wealth.",
+      "declined": "Expensive wars, stronger competition from England and France, shifts in international trade, and military pressure weakened Dutch political and commercial dominance.",
+      "related": "Improved microscopes, pendulum clocks, advanced mapmaking, financial instruments, shipbuilding techniques",
+      "start": 1588,
+      "end": 1672
+    },
+    {
+      "id": "age-11",
+      "title": "Safavid Persia",
+      "civilization": "Safavid Iran",
+      "date": "c. 1588–1722 CE",
+      "duration": "About 134 years for the period from Shah Abbas I to the fall of Isfahan",
+      "description": "Safavid Persia reached a major cultural and political high point under Shah Abbas I and his successors. Isfahan was transformed into an impressive imperial capital filled with mosques, palaces, gardens, bridges, markets, and public squares. Persian carpets, ceramics, miniature painting, calligraphy, textiles, and architecture became internationally admired. The state also strengthened trade connections linking Iran with India, Central Asia, the Ottoman world, Russia, and European merchants.",
+      "achievements": "Transformation of Isfahan into a major imperial capital\nConstruction of Naqsh-e Jahan Square and surrounding monuments\nFlourishing carpet and textile industries\nGrowth of long-distance silk trade\nDevelopment of distinctive Safavid architecture and decorative arts",
+      "figures": "Shah Abbas I, Reza Abbasi, Sheikh Bahai",
+      "flourished": "Centralization under Shah Abbas I, profitable silk trade, improved security, royal patronage, urban investment, and strategic commercial connections strengthened the empire.",
+      "declined": "Weak later rulers, court factionalism, fiscal problems, military decline, and external pressure undermined the state. Afghan forces captured Isfahan in 1722.",
+      "related": "Carpet weaving techniques, manuscript illumination, bridge engineering, urban planning",
+      "start": 1588,
+      "end": 1722
+    },
+    {
+      "id": "age-12",
+      "title": "Edo Japan",
+      "civilization": "Tokugawa Japan",
+      "date": "1603–1868 CE",
+      "duration": "265 years",
+      "description": "The Edo period brought more than two and a half centuries of relative internal peace under the Tokugawa shogunate. Japan experienced substantial urban growth, rising literacy, commercial expansion, widespread publishing, sophisticated craft production, and a flourishing popular culture. Edo, Osaka, and Kyoto became major urban centers, while merchants and artisans gained increasing economic importance. Although foreign relations were tightly controlled, Japan was never completely isolated and continued to receive selected foreign knowledge through regulated contacts.",
+      "achievements": "Long period of domestic political stability\nRapid growth of Edo and other major cities\nHigh levels of literacy for a preindustrial society\nFlourishing ukiyo-e print culture\nDevelopment of kabuki theater\nExpansion of publishing and commercial education\nGrowth of merchant networks and internal markets\nAdvances in mathematics, astronomy, medicine, and practical sciences",
+      "figures": "Tokugawa Ieyasu, Matsuo Bashō, Katsushika Hokusai, Utagawa Hiroshige, Sugita Genpaku",
+      "flourished": "Political stability, productive agriculture, urbanization, extensive road networks, commercial markets, literacy, and a strong craft economy encouraged sustained domestic development.",
+      "declined": "Economic pressures, social tensions, repeated famines, political challenges, and growing foreign pressure exposed weaknesses in the Tokugawa political system. The Meiji Restoration ended shogunal rule in 1868.",
+      "related": "Woodblock printing, wasan mathematics, improved agricultural tools, detailed cartography, rangaku scientific studies",
+      "start": 1603,
+      "end": 1868
+    },
+    {
+      "id": "age-13",
+      "title": "French Grand Siècle",
+      "date": "c. 1661–1715 CE",
+      "duration": "54 years",
+      "description": "The reign of Louis XIV became associated with a remarkable concentration of royal power, artistic patronage, architecture, literature, court culture, military ambition, and state administration. Versailles developed into one of Europe's most influential royal courts, while French fashion, language, theater, landscape design, and artistic taste spread widely among European elites. At the same time, the grandeur of the period depended on heavy taxation, warfare, and a highly unequal social structure.",
+      "achievements": "Construction and expansion of the Palace of Versailles\nInternational influence of French court culture\nFlourishing of theater and literature\nDevelopment of formal French garden design\nStrengthening of centralized royal administration",
+      "figures": "Louis XIV, Jean-Baptiste Colbert, Molière, Jean Racine, André Le Nôtre, Jules Hardouin-Mansart",
+      "flourished": "Centralized monarchy, royal patronage, a large population, strong manufacturing policies, taxation, and cultural institutions gave France enormous political and artistic influence.",
+      "declined": "Long and expensive wars, heavy taxation, state debt, poor harvests, and social inequality placed increasing pressure on the kingdom toward the end of Louis XIV's reign.",
+      "related": "Formal garden engineering, military fortification systems, luxury manufacturing, scientific academies",
+      "start": 1661,
+      "end": 1715
+    },
+    {
+      "id": "age-14",
+      "title": "British Industrial Ascendancy",
+      "date": "c. 1760–1850 CE",
+      "duration": "About 90 years",
+      "description": "Britain became the first society to experience sustained industrialization on a massive scale. Steam power, mechanized textile production, coal mining, iron manufacturing, canals, railways, and new factory systems transformed how goods were produced and transported. Cities expanded rapidly, productivity increased, and Britain developed extraordinary industrial and commercial power. These changes also brought severe social costs, including dangerous factory labor, overcrowded cities, pollution, and exploitative working conditions.",
+      "achievements": "Large-scale mechanization of textile production\nRapid development of steam power\nExpansion of canals and railways\nGrowth of iron and coal industries\nEmergence of the modern factory system\nAcceleration of global industrial trade",
+      "figures": "James Watt, Richard Arkwright, George Stephenson, Isambard Kingdom Brunel",
+      "flourished": "Coal resources, capital investment, commercial networks, technological innovation, agricultural productivity, expanding markets, and transport infrastructure created favorable conditions for industrialization.",
+      "declined": "The period did not end through a conventional collapse. Instead, industrialization spread to other countries, while Britain entered a new phase of economic and imperial development in the nineteenth century.",
+      "related": "Steam engines, spinning machinery, power looms, locomotives, iron bridges, mechanized factories",
+      "start": 1760,
+      "end": 1850
+    },
+    {
+      "id": "age-15",
+      "title": "Meiji Transformation",
+      "date": "1868–1912 CE",
+      "duration": "44 years",
+      "description": "The Meiji era transformed Japan from a decentralized feudal society into a centralized industrial state in only a few decades. The government restructured administration, introduced nationwide education, created modern armed forces, built railways and factories, adopted foreign technologies, and sent students and officials abroad to study different political and scientific systems. Japan selectively adapted foreign institutions while maintaining a strong sense of national identity and imperial authority.",
+      "achievements": "Creation of a centralized national government\nRapid railway construction\nEstablishment of a nationwide school system\nDevelopment of modern industries\nCreation of conscript armed forces\nAdoption of a constitutional political framework\nRapid expansion of modern communications",
+      "figures": "Emperor Meiji, Itō Hirobumi, Ōkubo Toshimichi, Fukuzawa Yukichi, Yamagata Aritomo",
+      "flourished": "Strong state-led modernization, investment in education and infrastructure, adoption of foreign technology, industrial policy, and institutional reforms allowed Japan to transform rapidly.",
+      "declined": "The Meiji era ended with the emperor's death in 1912 rather than with state collapse. Japan continued industrializing, while political and military developments moved into a new historical phase.",
+      "related": "Modern railways, telegraph networks, industrial shipbuilding, mechanized factories, modern printing and education systems",
+      "start": 1868,
+      "end": 1912
+    },
+    {
+      "id": "age-16",
+      "title": "Byzantine Golden Age under Justinian",
+      "civilization": "Byzantine Empire",
+      "date": "527–565 CE",
+      "duration": "38 years",
+      "description": "The reign of Justinian I represented one of the most ambitious periods in Byzantine history. The emperor attempted to restore Roman control over former western territories, reorganized imperial law, invested heavily in monumental architecture, and strengthened Constantinople as the political and religious center of the eastern Mediterranean. The period combined military expansion, legal reform, large-scale construction, and intense religious politics. Although Justinian’s campaigns temporarily restored territories in Italy, North Africa, and parts of Spain, they also placed enormous financial pressure on the empire.",
+      "achievements": "Compilation of the Corpus Juris Civilis\nConstruction of Hagia Sophia\nReconquest of North Africa from the Vandals\nTemporary restoration of imperial control over large parts of Italy\nExpansion of imperial fortifications and public works\nStrengthening of Constantinople as an imperial capital",
+      "figures": "Justinian I, Empress Theodora, Belisarius, Tribonian, Anthemius of Tralles",
+      "flourished": "A strong imperial administration, large tax base, experienced military commanders, strategic control of eastern Mediterranean trade, and Justinian’s willingness to invest heavily in law, architecture, and warfare supported an extraordinary burst of state activity.",
+      "declined": "Costly wars, the devastating Plague of Justinian, heavy taxation, military overstretch, and renewed pressure on imperial frontiers reduced the empire’s ability to sustain Justinian’s territorial gains.",
+      "related": "Byzantine dome engineering, codified Roman law, advanced fortifications, monumental church construction",
+      "start": 527,
+      "end": 565
+    },
+    {
+      "id": "age-17",
+      "title": "Carolingian Renaissance",
+      "civilization": "Carolingian Empire",
+      "date": "c. 768–814 CE",
+      "duration": "About 46 years during the reign of Charlemagne",
+      "description": "The Carolingian Renaissance was a revival of learning, administration, religious reform, manuscript production, and cultural organization centered on the court of Charlemagne and supported by monasteries and schools across much of western Europe. It was not a return to the classical world in full, but a deliberate effort to preserve texts, improve literacy among clergy, standardize writing, and strengthen imperial administration. This period became crucial for the survival and transmission of many ancient Latin works.",
+      "achievements": "Expansion of palace and monastic schools\nDevelopment and spread of Carolingian minuscule\nCopying and preservation of classical and Christian manuscripts\nStandardization of religious texts and administrative practices\nRevival of court scholarship\nConstruction of the Palatine Chapel at Aachen",
+      "figures": "Charlemagne, Alcuin of York, Einhard, Theodulf of Orléans",
+      "flourished": "Imperial patronage, cooperation with monasteries, need for educated administrators, religious reform, and the political ambition to create a unified Christian empire encouraged learning and textual standardization.",
+      "declined": "After Charlemagne’s death, political fragmentation, dynastic conflict, external invasions, and division of the empire weakened centralized patronage.",
+      "related": "Carolingian minuscule, standardized manuscript copying, educational curricula, administrative capitularies",
+      "start": 768,
+      "end": 814
+    },
+    {
+      "id": "age-18",
+      "title": "Song Dynasty Innovation Age",
+      "civilization": "Imperial China",
+      "date": "960–1279 CE",
+      "duration": "319 years",
+      "description": "The Song dynasty oversaw one of the most technologically and economically dynamic periods in premodern history. Chinese cities grew rapidly, commercial markets expanded, paper money circulated, printing became widespread, and scientific knowledge advanced in astronomy, engineering, mathematics, medicine, and navigation. Agricultural improvements supported population growth, while maritime trade connected Chinese ports to Southeast Asia, India, and the broader Indian Ocean world.",
+      "achievements": "Expansion of movable-type and woodblock printing\nWidespread use of paper money\nDevelopment of magnetic compass navigation\nAdvances in gunpowder weapons\nGrowth of large commercial cities\nExpansion of maritime trade\nMajor developments in landscape painting and ceramics\nAdvances in mechanical engineering and astronomy",
+      "figures": "Emperor Taizu, Shen Kuo, Su Song, Bi Sheng, Zhu Xi",
+      "flourished": "Agricultural innovation, commercialization, urbanization, sophisticated taxation, widespread education, printing, and maritime trade created a highly productive economy and intellectual environment.",
+      "declined": "Military pressure from northern states, loss of territory, expensive defense systems, and eventually Mongol conquest ended Song rule.",
+      "related": "Movable type, compass navigation, paper currency, gunpowder weapons, astronomical clocks",
+      "start": 960,
+      "end": 1279
+    },
+    {
+      "id": "age-19",
+      "title": "Khmer Empire at Angkor",
+      "civilization": "Khmer Empire",
+      "date": "c. 802–1431 CE",
+      "duration": "About 629 years, with major architectural and political peaks in the 11th–13th centuries",
+      "description": "The Khmer Empire developed one of Southeast Asia’s most impressive urban and hydraulic civilizations. Centered around Angkor, Khmer rulers built monumental temple complexes, reservoirs, canals, roads, bridges, and ceremonial cities. Angkor Wat and Angkor Thom became symbols of imperial power, religious devotion, and engineering skill. The region supported a large population through sophisticated water management and intensive rice agriculture.",
+      "achievements": "Construction of Angkor Wat\nDevelopment of Angkor Thom\nLarge-scale reservoir and canal systems\nExtensive road and bridge networks\nMonumental stone temple architecture\nIntegration of Hindu and Buddhist religious traditions",
+      "figures": "Jayavarman II, Suryavarman II, Jayavarman VII",
+      "flourished": "Productive rice agriculture, water management, centralized royal power, regional trade, military expansion, and control of fertile territories supported a large and wealthy state.",
+      "declined": "Political instability, conflict with neighboring states, changes in trade patterns, environmental pressures, and difficulties maintaining large hydraulic systems contributed to the gradual weakening of Angkor.",
+      "related": "Hydraulic engineering, stone causeways, temple-city planning, large-scale reservoirs",
+      "start": 802,
+      "end": 1431
+    },
+    {
+      "id": "age-20",
+      "title": "High Medieval Florence",
+      "civilization": "Republic of Florence",
+      "date": "c. 1250–1494 CE",
+      "duration": "About 244 years",
+      "description": "Florence grew from a prosperous medieval trading city into one of Europe’s most influential centers of finance, art, architecture, scholarship, and political experimentation. Wealth from banking, wool production, and international commerce supported artists, architects, humanists, and public building projects. By the fifteenth century, Florentine patronage helped create many of the developments now associated with the Italian Renaissance.",
+      "achievements": "Development of powerful international banking networks\nConstruction of Florence Cathedral’s dome\nGrowth of Renaissance humanism\nMajor advances in painting and perspective\nFlourishing sculpture and architecture\nExpansion of manuscript and book culture\nDevelopment of sophisticated commercial accounting",
+      "figures": "Cosimo de’ Medici, Lorenzo de’ Medici, Filippo Brunelleschi, Donatello, Sandro Botticelli, Marsilio Ficino",
+      "flourished": "Banking wealth, textile production, republican institutions, competitive patronage, educated elites, and strong commercial links created favorable conditions for artistic and intellectual innovation.",
+      "declined": "Political factionalism, foreign invasions, economic instability, changing trade patterns, and struggles over Medici power repeatedly disrupted the republic.",
+      "related": "Linear perspective, double-entry bookkeeping traditions, architectural dome engineering, Renaissance workshop techniques",
+      "start": 1250,
+      "end": 1494
+    },
+    {
+      "id": "age-21",
+      "title": "Portuguese Age of Exploration",
+      "date": "c. 1415–1580 CE",
+      "duration": "About 165 years",
+      "description": "Portugal became a leading maritime power by developing long-distance navigation, expanding Atlantic exploration, establishing trading posts, and connecting European markets directly with Africa, Asia, and the Americas. Portuguese sailors mapped coastlines, rounded the Cape of Good Hope, and created maritime routes linking Lisbon with the Indian Ocean. These achievements transformed global trade, but Portuguese expansion was also tied to conquest, forced labor, colonial domination, and the Atlantic slave trade.",
+      "achievements": "Exploration of the Atlantic coast of Africa\nOpening of a sea route from Europe to India\nEstablishment of maritime trading networks across the Indian Ocean\nDevelopment of Portuguese settlements in Brazil\nExpansion of nautical cartography\nImprovements in ocean-going ship design",
+      "figures": "Prince Henry the Navigator, Bartolomeu Dias, Vasco da Gama, Pedro Álvares Cabral, Afonso de Albuquerque",
+      "flourished": "Atlantic location, royal investment, maritime expertise, improved navigation, commercial ambition, and access to new trading routes helped Portugal become a major naval power.",
+      "declined": "A limited population, expensive overseas commitments, competition from Dutch and English merchants, military losses, and the dynastic crisis of 1580 weakened Portuguese dominance.",
+      "related": "Caravel design, nautical charts, improved navigation tables, oceanic route planning",
+      "start": 1415,
+      "end": 1580
+    },
+    {
+      "id": "age-22",
+      "title": "Spanish Siglo de Oro",
+      "date": "c. 1492–1681 CE",
+      "duration": "About 189 years",
+      "description": "Spain’s Golden Age combined global imperial expansion with extraordinary achievements in literature, painting, theater, architecture, and religious art. Wealth from overseas territories helped support royal power and cultural patronage, while Spanish became an increasingly important literary language. The period produced some of Europe’s most influential writers and painters, even as Spain faced repeated wars, fiscal crises, inequality, and the human costs of colonial conquest.",
+      "achievements": "Flourishing of Spanish literature\nDevelopment of major schools of painting\nExpansion of theater and dramatic literature\nConstruction of monumental royal and religious architecture\nGrowth of transatlantic trade and imperial administration",
+      "figures": "Miguel de Cervantes, Diego Velázquez, El Greco, Lope de Vega, Pedro Calderón de la Barca",
+      "flourished": "Imperial resources, royal and church patronage, expanding urban centers, printing, and a strong literary culture supported artistic production.",
+      "declined": "Repeated wars, inflation, heavy taxation, debt crises, demographic losses, and growing competition from other European powers weakened Spain’s economic and political position.",
+      "related": "Global cartography, transatlantic navigation systems, advances in theater production, imperial administrative records",
+      "start": 1492,
+      "end": 1681
+    },
+    {
+      "id": "age-23",
+      "title": "Polish-Lithuanian Golden Age",
+      "civilization": "Kingdom of Poland / Polish-Lithuanian Commonwealth",
+      "date": "c. 1500–1648 CE",
+      "duration": "About 148 years",
+      "description": "The Polish-Lithuanian state became one of Europe’s largest political entities and developed a distinctive political culture based on noble participation, elective monarchy, regional assemblies, and religious diversity. Kraków, Vilnius, Gdańsk, and other cities became important centers of trade, education, printing, and scholarship. The sixteenth century was especially associated with Renaissance culture, economic growth, and relative religious tolerance compared with many contemporary European states.",
+      "achievements": "Creation of the Polish-Lithuanian Commonwealth in 1569\nExpansion of parliamentary institutions\nGrowth of Renaissance art and architecture\nDevelopment of printing and higher education\nMajor grain exports through Baltic trade\nPeriods of comparatively broad religious tolerance",
+      "figures": "Sigismund I the Old, Sigismund II Augustus, Nicolaus Copernicus, Jan Kochanowski, Stefan Batory",
+      "flourished": "Fertile agricultural lands, Baltic trade, political cooperation between Poland and Lithuania, noble self-government, urban commerce, and cultural links with western Europe supported prosperity.",
+      "declined": "Military conflicts, political paralysis, growing magnate power, social inequality, Cossack uprisings, and wars with neighboring states severely destabilized the Commonwealth.",
+      "related": "Astronomical theory, Renaissance printing, parliamentary practices, advanced military cavalry traditions",
+      "start": 1500,
+      "end": 1648
+    },
+    {
+      "id": "age-24",
+      "title": "Age of the Great Mughals",
+      "civilization": "Mughal Empire",
+      "date": "1526–1707 CE",
+      "duration": "181 years",
+      "description": "The era of the Great Mughals transformed much of South Asia through imperial expansion, revenue reform, architecture, urban development, court culture, and international commerce. Mughal rulers governed highly diverse populations and combined Persianate administrative traditions with local Indian institutions. Cities such as Agra, Delhi, Lahore, and Fatehpur Sikri became major political and artistic centers.",
+      "achievements": "Creation of a powerful centralized imperial administration\nConstruction of the Taj Mahal\nDevelopment of Fatehpur Sikri\nGrowth of Mughal miniature painting\nExpansion of textile exports\nLarge-scale garden and palace design\nAdministrative revenue reforms",
+      "figures": "Babur, Akbar, Jahangir, Shah Jahan, Aurangzeb, Raja Todar Mal",
+      "flourished": "A large agricultural economy, effective tax systems, international textile trade, wealthy cities, military strength, and sustained court patronage supported imperial prosperity.",
+      "declined": "Long wars, succession conflicts, regional rebellions, financial pressure, and increasingly autonomous provincial elites weakened central authority after the late seventeenth century.",
+      "related": "Mughal garden planning, refined miniature painting, advanced textile production, monumental marble construction",
+      "start": 1526,
+      "end": 1707
+    },
+    {
+      "id": "age-25",
+      "title": "Swedish Empire Age",
+      "date": "c. 1611–1721 CE",
+      "duration": "About 110 years",
+      "description": "During the seventeenth century, Sweden transformed from a relatively peripheral northern kingdom into a major European military power. Swedish armies became famous for discipline, mobility, battlefield coordination, and effective use of artillery. Territorial expansion around the Baltic Sea gave Sweden strategic influence over regional trade, while administrative and military reforms strengthened the state.",
+      "achievements": "Creation of one of Europe’s most effective armies\nExpansion of Swedish influence around the Baltic Sea\nMilitary reforms emphasizing mobility and coordinated arms\nStrengthening of central administration\nDevelopment of iron and copper exports",
+      "figures": "Gustavus Adolphus, Axel Oxenstierna, Charles X Gustav, Charles XII",
+      "flourished": "Military reform, strong royal administration, mineral exports, taxation, conscription, and strategic Baltic geography allowed Sweden to project power beyond its population size.",
+      "declined": "Continuous warfare, limited manpower, financial exhaustion, and the Great Northern War eventually broke Swedish dominance in the Baltic region.",
+      "related": "Mobile field artillery, military administrative reforms, standardized regimental organization",
+      "start": 1611,
+      "end": 1721
+    },
+    {
+      "id": "age-26",
+      "title": "Russian Imperial Modernization under Peter the Great",
+      "date": "1682–1725 CE",
+      "duration": "43 years",
+      "description": "Peter the Great launched a sweeping campaign to transform Russia’s military, administration, industry, education, and international orientation. He built a new navy, reorganized the army, created new state institutions, encouraged technical education, and founded Saint Petersburg as a new imperial capital. These reforms strengthened Russia’s position in European politics but demanded enormous resources and imposed severe burdens on much of the population.",
+      "achievements": "Creation of a modern standing army\nEstablishment of a major Russian navy\nFoundation of Saint Petersburg\nExpansion of technical and military education\nAdministrative restructuring of the state\nDevelopment of metallurgy and shipbuilding",
+      "figures": "Peter the Great, Alexander Menshikov, Fyodor Apraksin",
+      "flourished": "Centralized authority, large-scale state investment, access to natural resources, foreign expertise, and military reforms helped Russia modernize rapidly.",
+      "declined": "The period itself ended with Peter’s death. His reforms continued, but succession instability and the enormous social and financial cost of modernization created new tensions.",
+      "related": "Naval shipbuilding, artillery production, military academies, large-scale metallurgical industry",
+      "start": 1682,
+      "end": 1725
+    },
+    {
+      "id": "age-27",
+      "title": "Austrian Habsburg Cultural Age",
+      "date": "c. 1740–1790 CE",
+      "duration": "About 50 years",
+      "description": "The reigns of Maria Theresa and Joseph II marked a period of administrative reform, educational expansion, military modernization, and cultural development within the Habsburg lands. Vienna grew as a political and artistic center, while reforms attempted to improve taxation, schooling, state administration, and the efficiency of government. Music, architecture, theater, and intellectual life flourished alongside broader Enlightenment influences.",
+      "achievements": "Expansion of state-supported education\nAdministrative centralization\nMilitary reforms\nGrowth of Vienna as a major cultural center\nExpansion of public health and bureaucratic institutions\nPatronage of music and the arts",
+      "figures": "Maria Theresa, Joseph II, Wolfgang Amadeus Mozart, Joseph Haydn",
+      "flourished": "Reform-minded rulers, a growing bureaucracy, wealthy urban centers, cultural patronage, and increased emphasis on education strengthened the monarchy.",
+      "declined": "Resistance to reforms, regional tensions, expensive wars, and the complexity of governing a diverse multinational monarchy limited the effectiveness of centralization.",
+      "related": "Administrative statistics, educational reforms, military standardization, public health regulation",
+      "start": 1740,
+      "end": 1790
+    },
+    {
+      "id": "age-28",
+      "title": "Enlightenment Scotland",
+      "date": "c. 1730–1800 CE",
+      "duration": "About 70 years",
+      "description": "Eighteenth-century Scotland became one of Europe’s most influential centers of philosophy, economics, science, medicine, engineering, and intellectual debate. Universities in Edinburgh, Glasgow, Aberdeen, and St Andrews helped produce a remarkably dense network of scholars. Scottish thinkers examined human behavior, markets, politics, morality, history, geology, and technology in ways that shaped modern social sciences and scientific thought.",
+      "achievements": "Major developments in economic theory\nAdvances in geology and natural science\nGrowth of medical education\nExpansion of philosophical and historical writing\nContributions to engineering and industrial technology",
+      "figures": "David Hume, Adam Smith, James Hutton, Joseph Black, James Watt",
+      "flourished": "Strong universities, literate urban communities, intellectual societies, publishing networks, and close links between science and industry encouraged innovation.",
+      "declined": "It did not end through collapse. Its intellectual networks gradually blended into wider British and European scientific and industrial institutions during the nineteenth century.",
+      "related": "Modern economic theory, geological deep time, improved steam-engine technology, advances in chemistry",
+      "start": 1730,
+      "end": 1800
+    },
+    {
+      "id": "age-29",
+      "title": "Belle Époque France",
+      "date": "c. 1871–1914 CE",
+      "duration": "About 43 years",
+      "description": "The Belle Époque was a period of rapid urban modernization, artistic experimentation, consumer culture, scientific innovation, and technological optimism in France, especially in Paris. Electric lighting, department stores, cafés, theaters, new transportation systems, photography, cinema, and international exhibitions reshaped urban life. The period became strongly associated with elegance and cultural confidence, although social inequality and political tensions remained significant.",
+      "achievements": "Expansion of electric lighting\nConstruction of the Eiffel Tower\nDevelopment of early cinema\nGrowth of Impressionism and Post-Impressionism\nExpansion of the Paris Métro\nMajor advances in medicine and scientific research\nDevelopment of modern advertising and poster art",
+      "figures": "Gustave Eiffel, Claude Monet, Marie Curie, Louis Pasteur, Auguste and Louis Lumière, Henri de Toulouse-Lautrec",
+      "flourished": "Industrial growth, urban investment, expanding middle-class consumption, scientific institutions, international exhibitions, and artistic experimentation supported an energetic cultural environment.",
+      "declined": "The outbreak of World War I in 1914 abruptly ended the social and cultural conditions associated with the Belle Époque.",
+      "related": "Cinema, X-ray research, electric urban infrastructure, modern posters, rapid-transit systems",
+      "start": 1871,
+      "end": 1914
+    },
+    {
+      "id": "age-30",
+      "title": "American Postwar Golden Age",
+      "date": "c. 1945–1969 CE",
+      "duration": "About 24 years",
+      "description": "The decades after World War II saw extraordinary economic growth, rapid suburbanization, expansion of higher education, major scientific investment, consumer technology, aerospace development, and large infrastructure projects in the United States. Television became a mass medium, interstate highways transformed mobility, and the space program culminated in the first human landing on the Moon. At the same time, the period was marked by racial segregation, civil rights struggles, Cold War tensions, and significant social inequality.",
+      "achievements": "Rapid expansion of higher education\nDevelopment of the Interstate Highway System\nGrowth of commercial aviation\nMajor advances in computing and electronics\nApollo 11 Moon landing\nExpansion of television and mass communication\nAdvances in medicine and pharmaceutical research\nMajor civil rights legislation",
+      "figures": "Dwight D. Eisenhower, Martin Luther King Jr., John F. Kennedy, Katherine Johnson, Neil Armstrong, Grace Hopper",
+      "flourished": "Industrial capacity, scientific investment, large domestic markets, infrastructure spending, expanding education, demographic growth, and technological competition supported rapid development.",
+      "declined": "The era gradually gave way to economic turbulence, the Vietnam War, political polarization, social unrest, and the energy and inflation crises of the 1970s.",
+      "related": "Integrated circuits, space technology, commercial jet aviation, early computer systems, satellite communications",
+      "start": 1945,
+      "end": 1969
+    },
+    {
+      "id": "age-31",
+      "title": "Neo-Assyrian Imperial Peak",
+      "civilization": "Neo-Assyrian Empire",
+      "date": "c. 911–609 BCE",
+      "duration": "About 302 years",
+      "description": "The Neo-Assyrian Empire became one of the most powerful and administratively sophisticated states of the ancient Near East. From its heartland in northern Mesopotamia, Assyrian armies expanded across much of the Middle East, creating a vast network of provinces, roads, fortified cities, and tribute-paying territories. The empire combined military power with large-scale deportations, centralized administration, royal propaganda, monumental architecture, and extensive record keeping. Cities such as Nineveh and Nimrud became major centers of government, art, and scholarship.",
+      "achievements": "Creation of one of the largest empires of the ancient Near East\nDevelopment of an extensive provincial administration\nConstruction of major royal palaces at Nimrud and Nineveh\nExpansion of imperial road and messenger systems\nCreation of the Library of Ashurbanipal\nLarge-scale development of siege warfare",
+      "figures": "Ashurnasirpal II, Tiglath-Pileser III, Sargon II, Sennacherib, Ashurbanipal",
+      "flourished": "A highly organized military, efficient taxation, provincial governors, strategic roads, iron weaponry, and the systematic extraction of tribute helped Assyria maintain control over a huge territory.",
+      "declined": "Constant warfare, internal succession struggles, heavy demands on subject populations, revolts, and a coalition of Babylonians and Medes eventually destroyed Assyrian power.",
+      "related": "Advanced siege engines, imperial courier systems, large royal archives, iron military equipment",
+      "start": -911,
+      "end": -609
+    },
+    {
+      "id": "age-32",
+      "title": "Babylon under Nebuchadnezzar II",
+      "civilization": "Neo-Babylonian Empire",
+      "date": "626–539 BCE",
+      "duration": "87 years",
+      "description": "The Neo-Babylonian period transformed Babylon into one of the most magnificent cities of the ancient world. Under Nebuchadnezzar II, massive building projects reshaped the capital with monumental walls, temples, ceremonial roads, and the famous Ishtar Gate. Babylonian astronomy, mathematics, and scholarly traditions continued to develop, while the empire controlled important trade routes across Mesopotamia and the Levant.",
+      "achievements": "Reconstruction and monumental expansion of Babylon\nConstruction of the Ishtar Gate\nDevelopment of the Processional Way\nMajor advances in astronomical observation\nContinuation of Mesopotamian mathematical traditions",
+      "figures": "Nabopolassar, Nebuchadnezzar II, Nabonidus",
+      "flourished": "Control of fertile Mesopotamian lands, trade routes, centralized royal authority, and investment in large-scale urban projects strengthened the empire.",
+      "declined": "Political instability after Nebuchadnezzar II, tensions under Nabonidus, and the rapid advance of Cyrus the Great allowed the Persian Empire to conquer Babylon in 539 BCE.",
+      "related": "Astronomical tables, advanced calendrical calculations, glazed-brick architecture, large-scale urban planning",
+      "start": -626,
+      "end": -539
+    },
+    {
+      "id": "age-33",
+      "title": "Macedonian Age of Alexander",
+      "civilization": "Kingdom of Macedon",
+      "date": "336–323 BCE",
+      "duration": "13 years",
+      "description": "Alexander the Great’s reign was brief but transformative. In little more than a decade, Macedonian armies defeated the Persian Empire and created a vast realm stretching from Greece and Egypt to Central Asia and the Indus Valley. His campaigns opened new routes of cultural exchange and accelerated the spread of Greek language, art, political ideas, and urban models across a huge region. The period laid the foundations for the Hellenistic world.",
+      "achievements": "Conquest of the Achaemenid Persian Empire\nFoundation of numerous new cities\nExpansion of Greek cultural influence\nOpening of new trade and communication networks\nMilitary innovations in combined-arms warfare",
+      "figures": "Alexander the Great, Philip II, Parmenion, Hephaestion",
+      "flourished": "A highly trained Macedonian army, strong cavalry, the phalanx system, flexible battlefield tactics, and inherited reforms from Philip II gave Alexander a major military advantage.",
+      "declined": "Alexander died without a stable succession plan. His generals divided the empire, leading to prolonged wars and the emergence of separate Hellenistic kingdoms.",
+      "related": "Advanced siegecraft, combined-arms tactics, Hellenistic city planning, expansion of long-distance trade",
+      "start": -336,
+      "end": -323
+    },
+    {
+      "id": "age-34",
+      "title": "Hellenistic Alexandria",
+      "civilization": "Ptolemaic Egypt",
+      "date": "c. 305–30 BCE",
+      "duration": "About 275 years",
+      "description": "Alexandria became one of the intellectual and commercial capitals of the ancient Mediterranean. Founded by Alexander the Great and developed under the Ptolemies, the city attracted scholars, merchants, engineers, mathematicians, physicians, and writers from many regions. The Library and Mouseion of Alexandria became famous centers of learning, while the city’s harbor linked Egypt to Mediterranean and Red Sea trade networks.",
+      "achievements": "Development of the Library of Alexandria\nGrowth of the Mouseion as a center of scholarship\nConstruction of the Lighthouse of Alexandria\nMajor advances in geometry and mathematics\nImportant work in astronomy and geography\nDevelopment of medical and anatomical study\nExpansion of Mediterranean trade",
+      "figures": "Ptolemy I Soter, Euclid, Eratosthenes, Herophilus, Callimachus, Claudius Ptolemy",
+      "flourished": "Royal patronage, Egypt’s agricultural wealth, access to international trade, a cosmopolitan population, and deliberate recruitment of scholars turned Alexandria into a major intellectual center.",
+      "declined": "Political instability, Roman intervention, dynastic conflict, and the eventual incorporation of Egypt into the Roman Empire reduced Ptolemaic independence.",
+      "related": "Geometric theory, geographic measurement, anatomical research, large-scale lighthouse engineering",
+      "start": -305,
+      "end": -30
+    },
+    {
+      "id": "age-35",
+      "title": "Umayyad Córdoba",
+      "civilization": "Emirate and Caliphate of Córdoba",
+      "date": "c. 756–1031 CE",
+      "duration": "About 275 years",
+      "description": "Córdoba became one of the largest and most sophisticated cities in medieval western Europe. Under Umayyad rule in al-Andalus, the city developed into a center of administration, agriculture, architecture, scholarship, medicine, craft production, and long-distance trade. Libraries, schools, markets, palaces, gardens, and religious institutions reflected a highly urbanized culture with connections across the Islamic world and the Mediterranean.",
+      "achievements": "Expansion of the Great Mosque of Córdoba\nGrowth of Córdoba as a major urban center\nDevelopment of libraries and scholarly institutions\nAdvances in medicine and philosophy\nExpansion of irrigation and agricultural techniques\nFlourishing of decorative arts and architecture",
+      "figures": "Abd al-Rahman I, Abd al-Rahman III, Al-Hakam II, Ibn Hazm, Al-Zahrawi",
+      "flourished": "Productive agriculture, irrigation, Mediterranean trade, strong urban markets, royal patronage, and intellectual links with the wider Islamic world supported prosperity.",
+      "declined": "Court conflict, succession struggles, military factionalism, and civil war fragmented the caliphate into smaller taifa kingdoms.",
+      "related": "Surgical instruments, irrigation systems, manuscript culture, horseshoe-arch architecture",
+      "start": 756,
+      "end": 1031
+    },
+    {
+      "id": "age-36",
+      "title": "Kievan Rus under Yaroslav the Wise",
+      "civilization": "Kievan Rus",
+      "date": "c. 1019–1054 CE",
+      "duration": "35 years",
+      "description": "The reign of Yaroslav the Wise marked one of the strongest political and cultural periods of Kievan Rus. Kyiv became an important center of trade, diplomacy, Christianity, architecture, law, and manuscript culture. Dynastic marriages linked the ruling family with royal houses across Europe, while major churches and defensive works transformed the capital. Legal traditions associated with the Rus' Justice also developed during this broader period.",
+      "achievements": "Construction of Saint Sophia Cathedral in Kyiv\nExpansion of diplomatic marriages with European dynasties\nDevelopment of early written legal traditions\nGrowth of manuscript and religious culture\nStrengthening of Kyiv as a major trade and political center",
+      "figures": "Yaroslav the Wise, Ingegerd Olofsdotter, Hilarion of Kyiv",
+      "flourished": "Control of major river trade routes, dynastic diplomacy, Christian institutions, urban development, and relative political stability strengthened Kyiv’s position.",
+      "declined": "Succession disputes among princes, regional fragmentation, shifting trade routes, and later external pressure weakened the unity of Kievan Rus.",
+      "related": "Written legal codes, monumental church architecture, manuscript production, urban fortifications",
+      "start": 1019,
+      "end": 1054
+    },
+    {
+      "id": "age-37",
+      "title": "Victorian Britain",
+      "date": "1837–1901 CE",
+      "duration": "64 years",
+      "description": "The Victorian era combined industrial expansion, global imperial influence, rapid urbanization, scientific breakthroughs, engineering projects, mass literacy, and major social reform. Railways transformed travel, telegraph systems accelerated communication, factories reshaped production, and cities expanded dramatically. Literature, architecture, natural science, medicine, and engineering all flourished, while the period also exposed harsh working conditions, poverty, colonial exploitation, and deep social inequality.",
+      "achievements": "Massive expansion of the railway network\nDevelopment of the electric telegraph\nMajor advances in evolutionary biology and geology\nExpansion of public education and literacy\nGrowth of modern sanitation systems\nConstruction of major bridges, stations, and industrial infrastructure\nRapid development of photography",
+      "figures": "Queen Victoria, Charles Darwin, Isambard Kingdom Brunel, Michael Faraday, Florence Nightingale, Charles Dickens",
+      "flourished": "Industrial production, global trade, access to raw materials, scientific institutions, engineering expertise, and expanding financial markets supported rapid growth.",
+      "declined": "The era ended with Queen Victoria’s death rather than a political collapse. Britain remained powerful, but competition from Germany, the United States, and other industrial states was increasing.",
+      "related": "Telegraphy, rail transport, modern sanitation, photography, electrical engineering",
+      "start": 1837,
+      "end": 1901
+    }
+  ],
+  "inventions": [
+    {
+      "id": "invention-1",
+      "title": "Paper",
+      "category": "Writing",
+      "date": "c. 105 CE · Han China",
+      "description": "Thin sheets made from processed plant fibers such as mulberry bark, hemp, old cloth, and rags, creating a lighter and more practical writing surface than many earlier materials.",
+      "origin": "Cai Lun is traditionally credited with improving and standardizing papermaking methods during the Eastern Han period.",
+      "importance": "Paper offered a relatively cheap, light, flexible, and durable medium for writing. Over time, it became far more practical for administration, education, literature, and record keeping than bamboo strips, wooden tablets, or silk.",
+      "impact": "Paper helped expand bureaucracy, literacy, scholarship, religious texts, correspondence, and eventually the book trade. As papermaking spread westward, it became one of the foundations of written culture across much of Eurasia.",
+      "related": "Han Dynasty Golden Age"
+    },
+    {
+      "id": "invention-2",
+      "title": "Movable Type Printing",
+      "category": "Communication",
+      "date": "c. 1040 CE · Song China",
+      "description": "A printing method that used individual reusable characters instead of carving an entire page into a single block.",
+      "origin": "Bi Sheng is credited with developing movable type using baked clay characters during the Northern Song period.",
+      "importance": "Movable type introduced the idea of assembling reusable printing elements into different pages. Although woodblock printing remained more practical for Chinese script in many contexts, the concept was technologically significant.",
+      "impact": "It contributed to the long-term evolution of printing, making the reproduction of texts more flexible and influencing later printing technologies in East Asia and beyond.",
+      "related": "Song Dynasty Innovation Age"
+    },
+    {
+      "id": "invention-3",
+      "title": "Magnetic Compass",
+      "category": "Navigation",
+      "date": "c. 11th century CE · China",
+      "description": "A navigation instrument using a magnetized needle or object that aligns with Earth’s magnetic field.",
+      "origin": "No single inventor is known. Chinese scholars and navigators gradually developed practical magnetic direction-finding methods.",
+      "importance": "The compass allowed travelers and sailors to determine direction even when landmarks, stars, or the Sun were unavailable.",
+      "impact": "It greatly improved maritime navigation, supported longer sea voyages, strengthened trade networks, and later became essential to global exploration.",
+      "related": "Song Dynasty Innovation Age"
+    },
+    {
+      "id": "invention-4",
+      "title": "Gunpowder",
+      "category": "Military Technology",
+      "date": "c. 9th century CE · Tang China",
+      "description": "A chemical mixture based on saltpeter, sulfur, and charcoal that burns rapidly and can generate explosive force.",
+      "origin": "No individual inventor is known. It likely emerged from experiments by Chinese alchemists searching for new chemical substances.",
+      "importance": "Gunpowder introduced a completely new form of military technology. Early uses included fire arrows, incendiary devices, bombs, and primitive firearms.",
+      "impact": "It transformed warfare across Eurasia, contributing to the development of artillery, firearms, siege weapons, and eventually new forms of military organization.",
+      "related": "Tang Dynasty / Song Dynasty Innovation Age"
+    },
+    {
+      "id": "invention-5",
+      "title": "Wheel",
+      "category": "Transport",
+      "date": "c. 3500 BCE · Mesopotamia",
+      "description": "A circular rotating component that allowed heavy objects and vehicles to move with much less friction.",
+      "origin": "Unknown. Early evidence appears in Mesopotamia and neighboring regions.",
+      "importance": "The wheel became fundamental to transport, pottery production, construction, agriculture, and mechanical systems.",
+      "impact": "It made it easier to move people, goods, building materials, and agricultural products, while also becoming a basic component of later machinery.",
+      "related": "Early Mesopotamian Civilizations"
+    },
+    {
+      "id": "invention-6",
+      "title": "Cuneiform Writing",
+      "category": "Writing",
+      "date": "c. 3200 BCE · Sumer",
+      "description": "A writing system formed by pressing wedge-shaped marks into soft clay tablets.",
+      "origin": "Developed gradually by scribes in Sumerian city-states rather than by one known individual.",
+      "importance": "Cuneiform was among the earliest complete writing systems and made large-scale administration, taxation, law, and record keeping possible.",
+      "impact": "It allowed governments, merchants, priests, and scholars to preserve information across generations and helped create complex bureaucratic societies.",
+      "related": "Sumerian City-States"
+    },
+    {
+      "id": "invention-7",
+      "title": "Bronze Casting",
+      "category": "Metallurgy",
+      "date": "c. 3300 BCE · Western Asia",
+      "description": "A metalworking technique using copper alloys, especially copper mixed with tin, to create stronger tools, weapons, vessels, and decorative objects.",
+      "origin": "Developed gradually across several early civilizations.",
+      "importance": "Bronze was harder and more durable than pure copper, making it highly valuable for agriculture, warfare, craftsmanship, and ceremonial objects.",
+      "impact": "It encouraged specialized craftsmanship, mining, long-distance trade in metals, and the development of better tools and weapons.",
+      "related": "Bronze Age Civilizations"
+    },
+    {
+      "id": "invention-8",
+      "title": "Chariot",
+      "category": "Transport / Warfare",
+      "date": "c. 2000 BCE · Eurasian Steppe and Near East",
+      "description": "A light two-wheeled vehicle usually pulled by horses and used for transport, ceremony, hunting, and warfare.",
+      "origin": "Developed gradually across Eurasia, with important early forms appearing in steppe cultures and the Near East.",
+      "importance": "The chariot increased battlefield mobility and became a symbol of elite military power in many Bronze Age states.",
+      "impact": "It changed military tactics, strengthened warrior elites, and supported faster communication and transport.",
+      "related": "New Kingdom of Egypt"
+    },
+    {
+      "id": "invention-9",
+      "title": "Aqueduct",
+      "category": "Engineering",
+      "date": "c. 4th century BCE · Roman world",
+      "description": "A system of channels, bridges, tunnels, and pipes designed to transport fresh water over long distances.",
+      "origin": "Earlier water channels existed in several civilizations, but Roman engineers developed aqueduct systems on an exceptionally large scale.",
+      "importance": "Aqueducts supplied cities with reliable water for drinking, fountains, baths, sanitation, and industry.",
+      "impact": "They supported dense urban populations, public hygiene, bath culture, and the growth of large Roman cities.",
+      "related": "Roman Imperial Age"
+    },
+    {
+      "id": "invention-10",
+      "title": "Roman Concrete",
+      "category": "Construction",
+      "date": "c. 3rd–2nd century BCE · Roman Republic",
+      "description": "A durable building material made from lime mortar, aggregates, and often volcanic ash.",
+      "origin": "Developed gradually by Roman builders using earlier Mediterranean techniques.",
+      "importance": "Roman concrete allowed architects to create massive domes, vaults, bridges, harbors, and complex interior spaces.",
+      "impact": "It enabled construction on a scale previously difficult to achieve and helped reshape Roman cities and public infrastructure.",
+      "related": "Roman Imperial Age"
+    },
+    {
+      "id": "invention-11",
+      "title": "Archimedes’ Screw",
+      "category": "Engineering",
+      "date": "c. 3rd century BCE · Hellenistic Mediterranean",
+      "description": "A rotating helical device used to lift water from a lower level to a higher one.",
+      "origin": "Traditionally associated with Archimedes, although similar devices may have existed earlier.",
+      "importance": "It provided a practical method for irrigation, drainage, and moving water.",
+      "impact": "The principle remained useful for centuries and is still applied in modern pumping systems and material transport.",
+      "related": "Hellenistic Age"
+    },
+    {
+      "id": "invention-12",
+      "title": "Astrolabe",
+      "category": "Astronomy / Navigation",
+      "date": "Ancient Greece, later significantly developed in the Islamic world",
+      "description": "A compact astronomical instrument used to measure the altitude of celestial objects and solve problems related to time, latitude, and astronomy.",
+      "origin": "Its early development is linked to Hellenistic astronomy, with major refinements by scholars in the Islamic world.",
+      "importance": "The astrolabe combined mathematical knowledge with practical observation and became an important scientific instrument.",
+      "impact": "It supported astronomy, navigation, education, timekeeping, and geographical calculation across several civilizations.",
+      "related": "Abbasid Golden Age"
+    },
+    {
+      "id": "invention-13",
+      "title": "Algebra",
+      "category": "Mathematics",
+      "date": "c. 9th century CE · Abbasid Caliphate",
+      "description": "A systematic mathematical method for solving equations using generalized numerical relationships.",
+      "origin": "Al-Khwarizmi played a foundational role through his mathematical treatise on calculation by completion and balancing.",
+      "importance": "Algebra transformed mathematics by providing structured methods for solving practical and abstract problems.",
+      "impact": "It became fundamental to commerce, engineering, astronomy, science, and eventually modern mathematics and computing.",
+      "related": "Abbasid Golden Age"
+    },
+    {
+      "id": "invention-14",
+      "title": "Surgical Instruments of Al-Zahrawi",
+      "category": "Medicine",
+      "date": "c. 10th century CE · Córdoba",
+      "description": "A large collection of specialized surgical tools designed for procedures such as cauterization, extraction, cutting, and treatment of injuries.",
+      "origin": "Al-Zahrawi, a physician and surgeon working in Córdoba.",
+      "importance": "His medical writings described and illustrated numerous surgical instruments and techniques with unusual precision for the period.",
+      "impact": "His works influenced surgical practice in both the Islamic world and medieval Europe for centuries.",
+      "related": "Umayyad Córdoba"
+    },
+    {
+      "id": "invention-15",
+      "title": "Mechanical Clock",
+      "category": "Timekeeping",
+      "date": "c. 13th–14th century CE · Europe",
+      "description": "A clock driven by mechanical gears and regulated by an escapement mechanism rather than water, candles, or the movement of the Sun.",
+      "origin": "No single inventor is known; the technology developed gradually in medieval Europe.",
+      "importance": "Mechanical clocks allowed communities to measure time more consistently and independently of natural cycles.",
+      "impact": "They changed daily schedules, urban routines, religious observance, labor organization, and eventually scientific measurement.",
+      "related": "Late Medieval Europe"
+    },
+    {
+      "id": "invention-16",
+      "title": "Printing Press",
+      "category": "Communication",
+      "date": "c. 1450 CE · Mainz, Europe",
+      "description": "A mechanical system combining movable metal type, ink, and a press to reproduce pages quickly and repeatedly.",
+      "origin": "Johannes Gutenberg is closely associated with the development of the European movable-type printing press.",
+      "importance": "Printing sharply reduced the cost and time required to reproduce books.",
+      "impact": "It accelerated literacy, education, scientific communication, religious debate, and the spread of political and cultural ideas.",
+      "related": "European Renaissance"
+    },
+    {
+      "id": "invention-17",
+      "title": "Caravel",
+      "category": "Navigation",
+      "date": "c. 15th century CE · Portugal",
+      "description": "A relatively small, maneuverable sailing ship designed for exploration and long-distance navigation.",
+      "origin": "Developed gradually by Portuguese shipbuilders.",
+      "importance": "Its combination of maneuverability, speed, and suitable sail arrangements made it effective for Atlantic exploration.",
+      "impact": "Caravels supported Portuguese exploration along Africa and contributed to the opening of new maritime trade routes.",
+      "related": "Portuguese Age of Exploration"
+    },
+    {
+      "id": "invention-18",
+      "title": "Telescope",
+      "category": "Science",
+      "date": "1608 CE · Netherlands",
+      "description": "An optical instrument that uses lenses to magnify distant objects.",
+      "origin": "Hans Lippershey is among the earliest documented makers associated with the device, though its invention involved several Dutch spectacle makers.",
+      "importance": "When adapted for astronomy, the telescope dramatically expanded human observation of the heavens.",
+      "impact": "It contributed to major changes in astronomy, navigation, military observation, and scientific understanding of the universe.",
+      "related": "European Scientific Revolution"
+    },
+    {
+      "id": "invention-19",
+      "title": "Pendulum Clock",
+      "category": "Timekeeping",
+      "date": "1656 CE · Dutch Republic",
+      "description": "A mechanical clock regulated by the regular swinging motion of a pendulum.",
+      "origin": "Christiaan Huygens.",
+      "importance": "It greatly improved the precision of mechanical timekeeping.",
+      "impact": "More accurate clocks supported astronomy, scientific experimentation, navigation, and increasingly precise organization of daily life.",
+      "related": "Dutch Golden Age"
+    },
+    {
+      "id": "invention-20",
+      "title": "Microscope",
+      "category": "Science",
+      "date": "c. late 16th–17th century · Netherlands",
+      "description": "An optical instrument designed to magnify objects too small to be clearly seen by the naked eye.",
+      "origin": "Early compound microscopes are associated with Dutch lens makers, while Antonie van Leeuwenhoek later developed exceptionally powerful single-lens microscopes.",
+      "importance": "The microscope opened an entirely new scale of observation.",
+      "impact": "It transformed biology and medicine by allowing scientists to study cells, microorganisms, tissues, and microscopic structures.",
+      "related": "Dutch Golden Age"
+    },
+    {
+      "id": "invention-21",
+      "title": "Steam Engine",
+      "category": "Industry",
+      "date": "18th century · Great Britain",
+      "description": "A machine that converts the energy of steam into mechanical motion.",
+      "origin": "Early designs were developed by Thomas Newcomen, while James Watt later introduced major efficiency improvements.",
+      "importance": "The steam engine provided reliable mechanical power independent of wind, water, or animal labor.",
+      "impact": "It powered mines, factories, locomotives, and ships and became one of the central technologies of industrialization.",
+      "related": "British Industrial Ascendancy"
+    },
+    {
+      "id": "invention-22",
+      "title": "Spinning Jenny",
+      "category": "Textile Industry",
+      "date": "c. 1764 CE · Great Britain",
+      "description": "A spinning machine that allowed one worker to spin multiple threads at the same time.",
+      "origin": "James Hargreaves.",
+      "importance": "It greatly increased yarn production during the early Industrial Revolution.",
+      "impact": "It accelerated textile manufacturing, reduced production costs, and contributed to the shift from household production to larger industrial systems.",
+      "related": "British Industrial Ascendancy"
+    },
+    {
+      "id": "invention-23",
+      "title": "Smallpox Vaccination",
+      "category": "Medicine",
+      "date": "1796 CE · Great Britain",
+      "description": "A method of inducing protection against smallpox by using material related to cowpox infection.",
+      "origin": "Edward Jenner is credited with developing and demonstrating the vaccination method scientifically.",
+      "importance": "It provided a safer method of protection than earlier forms of smallpox inoculation.",
+      "impact": "Vaccination eventually became one of the most powerful tools of preventive medicine and contributed to the global eradication of smallpox.",
+      "related": "Age of Enlightenment / Early Industrial Britain"
+    },
+    {
+      "id": "invention-24",
+      "title": "Electric Telegraph",
+      "category": "Communication",
+      "date": "1830s–1840s · Europe and United States",
+      "description": "A communication system that transmitted coded electrical signals over wires.",
+      "origin": "Several inventors contributed, including Samuel Morse, Charles Wheatstone, and William Fothergill Cooke.",
+      "importance": "The telegraph made near-instant long-distance communication possible for the first time.",
+      "impact": "It transformed journalism, commerce, railway coordination, diplomacy, military communication, and financial markets.",
+      "related": "Victorian Britain"
+    },
+    {
+      "id": "invention-25",
+      "title": "Photography",
+      "category": "Visual Technology",
+      "date": "19th century · France and Britain",
+      "description": "A method of capturing and permanently recording images using light-sensitive materials.",
+      "origin": "Major early contributors included Nicéphore Niépce, Louis Daguerre, and William Henry Fox Talbot.",
+      "importance": "Photography created a fundamentally new way to record people, places, events, art, and scientific observations.",
+      "impact": "It transformed journalism, science, documentation, portraiture, advertising, art, and historical memory.",
+      "related": "Victorian Era / Belle Époque"
+    },
+    {
+      "id": "invention-26",
+      "title": "Cinema",
+      "category": "Entertainment / Media",
+      "date": "1890s · France and other industrial countries",
+      "description": "A technology for recording and projecting sequences of images rapidly enough to create the illusion of movement.",
+      "origin": "Several inventors contributed; Auguste and Louis Lumière became especially famous for public film screenings.",
+      "importance": "Cinema created a completely new visual storytelling medium.",
+      "impact": "It transformed entertainment, journalism, propaganda, advertising, education, and popular culture worldwide.",
+      "related": "Belle Époque France"
+    },
+    {
+      "id": "invention-27",
+      "title": "X-Ray Imaging",
+      "category": "Medicine / Science",
+      "date": "1895 CE · Germany",
+      "description": "A method of using high-energy electromagnetic radiation to create images of structures inside the human body.",
+      "origin": "Wilhelm Conrad Röntgen.",
+      "importance": "For the first time, physicians could examine bones and some internal structures without surgery.",
+      "impact": "X-rays transformed diagnosis, emergency medicine, surgery, dentistry, and later medical imaging as a whole.",
+      "related": "Belle Époque / Second Industrial Revolution"
+    },
+    {
+      "id": "invention-28",
+      "title": "Radio Communication",
+      "category": "Communication",
+      "date": "Late 19th–early 20th century · Europe",
+      "description": "A system for transmitting information wirelessly using electromagnetic waves.",
+      "origin": "Developed through contributions from multiple scientists and engineers, including Guglielmo Marconi.",
+      "importance": "Radio eliminated the need for physical wires in long-distance communication.",
+      "impact": "It transformed maritime safety, military communication, broadcasting, entertainment, news, and mass culture.",
+      "related": "Second Industrial Revolution"
+    },
+    {
+      "id": "invention-29",
+      "title": "Airplane",
+      "category": "Transport",
+      "date": "1903 CE · United States",
+      "description": "A powered heavier-than-air vehicle capable of controlled, sustained flight.",
+      "origin": "Orville and Wilbur Wright achieved the first widely recognized controlled powered flight.",
+      "importance": "Powered flight opened an entirely new form of transport.",
+      "impact": "Aircraft transformed travel, trade, warfare, tourism, emergency services, and international connectivity.",
+      "related": "Early 20th Century Technological Age"
+    },
+    {
+      "id": "invention-30",
+      "title": "Electronic Computer",
+      "category": "Computing",
+      "date": "1940s · United States and United Kingdom",
+      "description": "A programmable electronic machine capable of performing large numbers of calculations and logical operations automatically.",
+      "origin": "Developed by several teams and pioneers rather than one individual, including work on machines such as Colossus and ENIAC.",
+      "importance": "Electronic computing drastically increased the speed and scale of information processing.",
+      "impact": "Computers eventually transformed science, business, communication, medicine, transportation, education, and almost every aspect of modern life.",
+      "related": "American Postwar Golden Age"
+    },
+    {
+      "id": "invention-31",
+      "title": "Seismometer",
+      "category": "Science / Earth Observation",
+      "date": "132 CE · Han China",
+      "description": "An early instrument designed to detect the direction of distant earthquakes.",
+      "origin": "Zhang Heng, a Chinese astronomer, mathematician, engineer, and court official.",
+      "importance": "The device demonstrated that earthquake effects could be detected mechanically even when shaking was not strongly felt at the imperial capital.",
+      "impact": "It represented an important step toward systematic observation of natural phenomena and the later development of seismology.",
+      "related": "Han Dynasty Golden Age"
+    },
+    {
+      "id": "invention-32",
+      "title": "Stirrup",
+      "category": "Transport / Warfare",
+      "date": "c. 4th–5th century CE · Asia",
+      "description": "A foot support attached to a saddle that gave mounted riders greater stability and control.",
+      "origin": "No single inventor is known. Early forms developed gradually in Asia before spreading widely across Eurasia.",
+      "importance": "The stirrup improved mounted combat by helping riders remain stable while using weapons or maneuvering at speed.",
+      "impact": "It contributed to the growing importance of cavalry and influenced military tactics, equipment, and elite warrior cultures.",
+      "related": "Late Antiquity / Early Medieval Eurasia"
+    },
+    {
+      "id": "invention-33",
+      "title": "Porcelain",
+      "category": "Craft / Materials",
+      "date": "c. 7th–9th century CE · China",
+      "description": "A hard, fine, translucent ceramic made by firing refined clay at very high temperatures.",
+      "origin": "Developed gradually by Chinese potters, especially during the Tang and Song periods.",
+      "importance": "Porcelain combined strength, beauty, and durability in a material unlike ordinary pottery.",
+      "impact": "Chinese porcelain became a major luxury export, influenced ceramics across Asia, the Middle East, and Europe, and supported large specialized craft industries.",
+      "related": "Tang Dynasty / Song Dynasty Innovation Age"
+    },
+    {
+      "id": "invention-34",
+      "title": "Paper Money",
+      "category": "Finance",
+      "date": "c. 10th–11th century CE · Song China",
+      "description": "Printed notes representing monetary value and used instead of heavy quantities of metal coins.",
+      "origin": "Developed from merchant deposit certificates and later adopted and regulated by the Song government.",
+      "importance": "Paper money made large commercial transactions easier and reduced the logistical burden of transporting coins.",
+      "impact": "It supported urban commerce, long-distance trade, taxation, and more sophisticated financial systems.",
+      "related": "Song Dynasty Innovation Age"
+    },
+    {
+      "id": "invention-35",
+      "title": "Blast Furnace",
+      "category": "Metallurgy",
+      "date": "Early forms by the 1st millennium BCE; advanced use in medieval China and later Europe",
+      "description": "A tall furnace capable of reaching temperatures high enough to produce molten iron continuously.",
+      "origin": "No single inventor is known. The technology developed independently and evolved over long periods in different regions.",
+      "importance": "Blast furnaces allowed iron to be produced at greater scale and supported more advanced metalworking.",
+      "impact": "They increased access to tools, weapons, machinery, construction materials, and eventually industrial equipment.",
+      "related": "Song Dynasty Innovation Age / European Industrial Development"
+    },
+    {
+      "id": "invention-36",
+      "title": "Crossbow",
+      "category": "Military Technology",
+      "date": "At least 5th century BCE · Ancient China and Mediterranean world",
+      "description": "A ranged weapon using a bow mounted horizontally on a stock with a mechanical trigger.",
+      "origin": "No single inventor is known. Crossbows developed independently in multiple ancient societies.",
+      "importance": "The mechanical trigger allowed powerful bows to be held ready to fire without continuous physical strain.",
+      "impact": "Crossbows changed infantry warfare by making strong ranged weapons usable with less specialized training than traditional composite bows.",
+      "related": "Warring States China / Han Dynasty"
+    },
+    {
+      "id": "invention-37",
+      "title": "Watermill",
+      "category": "Engineering / Industry",
+      "date": "c. 3rd–1st century BCE · Hellenistic and Roman world",
+      "description": "A machine that converts flowing or falling water into rotational mechanical power.",
+      "origin": "Developed gradually by engineers in the ancient Mediterranean and neighboring regions.",
+      "importance": "Watermills allowed repetitive mechanical work to be performed without relying entirely on human or animal labor.",
+      "impact": "They were used to grind grain, process materials, power workshops, and later support larger preindustrial manufacturing systems.",
+      "related": "Hellenistic Age / Roman Imperial Age"
+    },
+    {
+      "id": "invention-38",
+      "title": "Water Clock",
+      "category": "Timekeeping",
+      "date": "Ancient Egypt and Mesopotamia, later refined in Greece and the Islamic world",
+      "description": "A device that measures time by regulating the flow of water between containers.",
+      "origin": "No single inventor is known.",
+      "importance": "Water clocks made it possible to measure intervals of time when sundials could not be used.",
+      "impact": "They were used in courts, temples, astronomical observation, public administration, and scientific experimentation.",
+      "related": "Ancient Egypt / Hellenistic Age / Abbasid Golden Age"
+    },
+    {
+      "id": "invention-39",
+      "title": "Arch Bridge",
+      "category": "Construction",
+      "date": "Ancient world · Mediterranean and Near East",
+      "description": "A bridge structure that transfers weight outward through a curved arch into supporting foundations.",
+      "origin": "Arch construction existed before Rome, but Roman engineers used it on an exceptionally large scale.",
+      "importance": "The arch allowed builders to create strong bridges capable of spanning rivers and valleys.",
+      "impact": "It improved transportation networks, trade, military mobility, and urban infrastructure.",
+      "related": "Roman Imperial Age"
+    },
+    {
+      "id": "invention-40",
+      "title": "Roman Road System",
+      "category": "Infrastructure",
+      "date": "From the 4th century BCE · Roman Republic and Empire",
+      "description": "A vast network of engineered roads built with layered foundations, drainage, bridges, and standardized routes.",
+      "origin": "Developed collectively by Roman military and civil engineers.",
+      "importance": "Roman roads connected cities, military bases, ports, provinces, and frontier regions across a huge territory.",
+      "impact": "They accelerated trade, administration, communication, troop movement, migration, and cultural exchange.",
+      "related": "Roman Imperial Age"
+    },
+    {
+      "id": "invention-41",
+      "title": "Lateen Sail",
+      "category": "Navigation",
+      "date": "Late antiquity and early medieval Mediterranean / Indian Ocean",
+      "description": "A triangular sail mounted at an angle that allowed ships to sail more effectively across or partially against the wind.",
+      "origin": "Its exact origin is debated and no single inventor is known.",
+      "importance": "The lateen sail increased maneuverability compared with many earlier square-rigged systems.",
+      "impact": "It supported long-distance Mediterranean and Indian Ocean navigation and later influenced European exploration ships.",
+      "related": "Byzantine and Islamic Maritime Age"
+    },
+    {
+      "id": "invention-42",
+      "title": "Windmill",
+      "category": "Engineering",
+      "date": "c. 7th–9th century CE · Persia / Central Asia",
+      "description": "A machine that converts wind energy into mechanical power.",
+      "origin": "No single inventor is known. Early vertical-axis windmills are documented in the Persian world.",
+      "importance": "Windmills offered mechanical power in regions where flowing water was limited.",
+      "impact": "They were used for grinding grain, pumping water, irrigation, and later various industrial processes.",
+      "related": "Early Islamic World"
+    },
+    {
+      "id": "invention-43",
+      "title": "Quadrant",
+      "category": "Astronomy / Navigation",
+      "date": "Medieval Islamic world and Europe",
+      "description": "A quarter-circle instrument used to measure the altitude of celestial objects or calculate angles.",
+      "origin": "Developed and refined by multiple astronomers and instrument makers.",
+      "importance": "The quadrant provided a portable and relatively precise tool for astronomical and navigational measurement.",
+      "impact": "It supported astronomy, surveying, navigation, timekeeping, and geographic calculation.",
+      "related": "Abbasid Golden Age / European Age of Exploration"
+    },
+    {
+      "id": "invention-44",
+      "title": "Mechanical Automata",
+      "category": "Engineering",
+      "date": "Ancient and medieval worlds",
+      "description": "Self-moving mechanical devices powered by water, weights, air pressure, or gears.",
+      "origin": "Important contributors included Hero of Alexandria and later engineers such as the Banū Mūsā and al-Jazari.",
+      "importance": "Automata demonstrated sophisticated understanding of mechanics, hydraulics, valves, and motion.",
+      "impact": "They influenced clockmaking, engineering, entertainment devices, and the long-term development of automated machinery.",
+      "related": "Hellenistic Age / Islamic Golden Age"
+    },
+    {
+      "id": "invention-45",
+      "title": "Crankshaft Mechanism",
+      "category": "Mechanical Engineering",
+      "date": "Ancient and medieval Eurasia",
+      "description": "A mechanism that converts back-and-forth motion into rotational motion or the reverse.",
+      "origin": "Developed gradually in several civilizations; sophisticated examples appeared in medieval machinery.",
+      "importance": "Crank mechanisms became essential for transferring power efficiently in machines.",
+      "impact": "They later became fundamental to pumps, mills, engines, industrial machinery, and modern vehicles.",
+      "related": "Medieval Engineering Age"
+    },
+    {
+      "id": "invention-46",
+      "title": "Eyeglasses",
+      "category": "Optics / Medicine",
+      "date": "c. late 13th century CE · Italy",
+      "description": "Wearable lenses designed to correct visual problems, especially age-related farsightedness.",
+      "origin": "The exact inventor is unknown; early eyeglasses appeared in northern Italy.",
+      "importance": "They allowed scholars, artisans, merchants, and older readers to continue detailed visual work for longer periods of life.",
+      "impact": "Eyeglasses supported literacy, craftsmanship, administration, and scholarship and later stimulated improvements in lens making.",
+      "related": "Late Medieval Europe"
+    },
+    {
+      "id": "invention-47",
+      "title": "Double-Entry Bookkeeping",
+      "category": "Finance / Commerce",
+      "date": "13th–15th centuries CE · Italian trading cities",
+      "description": "An accounting system in which every financial transaction is recorded as corresponding debits and credits.",
+      "origin": "Developed gradually among merchants; Luca Pacioli later published a famous description of the system in 1494.",
+      "importance": "It gave merchants a more reliable way to track assets, debts, profits, and losses.",
+      "impact": "The method became foundational to modern accounting, banking, corporate finance, and commercial management.",
+      "related": "Italian Renaissance / High Medieval Florence"
+    },
+    {
+      "id": "invention-48",
+      "title": "Linear Perspective",
+      "category": "Art / Mathematics",
+      "date": "Early 15th century CE · Florence",
+      "description": "A geometric system for representing three-dimensional depth on a flat surface using converging lines and vanishing points.",
+      "origin": "Filippo Brunelleschi is strongly associated with its formal development, while Leon Battista Alberti later explained the method in writing.",
+      "importance": "Linear perspective gave artists a systematic mathematical method for constructing convincing spatial depth.",
+      "impact": "It transformed Renaissance painting, architecture, technical drawing, visual education, and later design practices.",
+      "related": "High Medieval Florence / Italian Renaissance"
+    },
+    {
+      "id": "invention-49",
+      "title": "Marine Chronometer",
+      "category": "Navigation",
+      "date": "18th century CE · Great Britain",
+      "description": "A highly accurate clock designed to keep reliable time aboard ships despite motion, temperature changes, and long voyages.",
+      "origin": "John Harrison developed a series of increasingly accurate marine timekeepers.",
+      "importance": "Accurate timekeeping allowed sailors to calculate longitude much more reliably.",
+      "impact": "Marine chronometers improved navigation safety, global trade, naval operations, mapping, and long-distance exploration.",
+      "related": "British Maritime and Industrial Ascendancy"
+    },
+    {
+      "id": "invention-50",
+      "title": "Steam Locomotive",
+      "category": "Transport",
+      "date": "Early 19th century CE · Great Britain",
+      "description": "A railway vehicle powered by a steam engine that drives wheels along tracks.",
+      "origin": "Developed by several engineers, with major contributions from Richard Trevithick and George Stephenson.",
+      "importance": "Steam locomotives allowed heavy loads and large numbers of passengers to move quickly over land.",
+      "impact": "Railways transformed commerce, migration, urban growth, tourism, industrial supply chains, and the perception of distance.",
+      "related": "British Industrial Ascendancy"
+    },
+    {
+      "id": "invention-51",
+      "title": "Bessemer Process",
+      "category": "Metallurgy / Industry",
+      "date": "1850s CE · Great Britain",
+      "description": "A method of producing steel by blowing air through molten iron to remove impurities.",
+      "origin": "Henry Bessemer is closely associated with the industrial process.",
+      "importance": "It dramatically reduced the cost and time required to produce large quantities of steel.",
+      "impact": "Cheap steel supported railways, bridges, ships, buildings, weapons, machinery, and large-scale industrial expansion.",
+      "related": "Victorian Britain"
+    },
+    {
+      "id": "invention-52",
+      "title": "Telephone",
+      "category": "Communication",
+      "date": "1870s CE · North America and Europe",
+      "description": "A device that converts sound into electrical signals and reconstructs those signals as sound at another location.",
+      "origin": "Developed through work by several inventors; Alexander Graham Bell is strongly associated with early practical telephone systems.",
+      "importance": "The telephone allowed people to communicate by voice instantly across long distances.",
+      "impact": "It transformed business, personal communication, emergency services, government, and eventually global telecommunications.",
+      "related": "Second Industrial Revolution"
+    },
+    {
+      "id": "invention-53",
+      "title": "Electric Light Bulb",
+      "category": "Electricity",
+      "date": "19th century CE · Europe and United States",
+      "description": "An electric lamp that produces visible light by heating a filament or using another electrically powered light-producing system.",
+      "origin": "Developed by multiple inventors, including Joseph Swan and Thomas Edison.",
+      "importance": "Reliable electric lighting allowed homes, streets, factories, and businesses to operate safely after dark.",
+      "impact": "It reshaped urban life, working hours, domestic routines, entertainment, and modern infrastructure.",
+      "related": "Second Industrial Revolution / Belle Époque"
+    },
+    {
+      "id": "invention-54",
+      "title": "Internal Combustion Engine",
+      "category": "Transport / Engineering",
+      "date": "19th century CE · Europe",
+      "description": "An engine that generates mechanical power by burning fuel inside a combustion chamber.",
+      "origin": "Developed through contributions from engineers including Étienne Lenoir, Nikolaus Otto, Gottlieb Daimler, and Rudolf Diesel.",
+      "importance": "Compact combustion engines made new forms of mobile machinery practical.",
+      "impact": "They powered automobiles, trucks, aircraft, agricultural machinery, ships, and generators and reshaped transport worldwide.",
+      "related": "Second Industrial Revolution"
+    },
+    {
+      "id": "invention-55",
+      "title": "Automobile",
+      "category": "Transport",
+      "date": "Late 19th century CE · Europe",
+      "description": "A self-propelled road vehicle powered by an engine rather than horses or external traction.",
+      "origin": "Karl Benz is strongly associated with one of the first practical gasoline-powered automobiles.",
+      "importance": "The automobile introduced flexible personal and commercial transportation independent of railways.",
+      "impact": "Cars transformed cities, road systems, industry, travel, logistics, suburbs, and everyday mobility.",
+      "related": "Second Industrial Revolution"
+    },
+    {
+      "id": "invention-56",
+      "title": "Motion Picture Camera",
+      "category": "Media Technology",
+      "date": "Late 19th century CE · Europe and United States",
+      "description": "A device capable of recording a rapid sequence of images onto film to reproduce moving scenes.",
+      "origin": "Developed through work by several inventors and companies rather than one individual.",
+      "importance": "It enabled moving images to be recorded, reproduced, studied, and distributed.",
+      "impact": "It became the technological foundation of cinema, documentary film, visual journalism, entertainment, and later television production.",
+      "related": "Belle Époque"
+    },
+    {
+      "id": "invention-57",
+      "title": "Penicillin",
+      "category": "Medicine",
+      "date": "1928 CE · United Kingdom",
+      "description": "An antibiotic substance produced by certain Penicillium molds that can kill or inhibit susceptible bacteria.",
+      "origin": "Alexander Fleming observed its antibacterial effect; later work by Howard Florey, Ernst Chain, and others enabled mass medical use.",
+      "importance": "Penicillin introduced a powerful new method for treating bacterial infections that had previously been extremely dangerous.",
+      "impact": "Antibiotics dramatically reduced deaths from many infections and transformed surgery, emergency medicine, and public health.",
+      "related": "Early 20th-Century Medical Revolution"
+    },
+    {
+      "id": "invention-58",
+      "title": "Radar",
+      "category": "Detection / Military Technology",
+      "date": "1930s–1940s CE · Multiple countries",
+      "description": "A system that uses radio waves to detect objects and estimate their distance, direction, or speed.",
+      "origin": "Developed independently by several research teams, with major wartime development in Britain, Germany, the United States, and elsewhere.",
+      "importance": "Radar allowed aircraft and ships to be detected beyond visual range and in poor visibility.",
+      "impact": "It transformed military defense, aviation safety, weather monitoring, navigation, and later traffic control.",
+      "related": "World War II Technological Age"
+    },
+    {
+      "id": "invention-59",
+      "title": "Transistor",
+      "category": "Electronics",
+      "date": "1947 CE · United States",
+      "description": "A semiconductor device that can amplify or switch electronic signals.",
+      "origin": "John Bardeen, Walter Brattain, and William Shockley at Bell Labs.",
+      "importance": "The transistor replaced bulky vacuum tubes in many electronic systems.",
+      "impact": "It enabled smaller, faster, cheaper, and more reliable radios, computers, communication systems, and eventually modern digital electronics.",
+      "related": "American Postwar Golden Age"
+    },
+    {
+      "id": "invention-60",
+      "title": "Integrated Circuit",
+      "category": "Computing / Electronics",
+      "date": "1958–1959 CE · United States",
+      "description": "A compact electronic circuit in which multiple components are fabricated together on a small semiconductor material.",
+      "origin": "Jack Kilby and Robert Noyce independently developed crucial early integrated-circuit concepts.",
+      "importance": "Integrated circuits allowed large numbers of electronic components to be packed into dramatically smaller spaces.",
+      "impact": "They became the foundation of modern computers, smartphones, satellites, medical equipment, vehicles, and digital technology.",
+      "related": "American Postwar Golden Age"
+    }
+  ],
+  "facts": [
+    {
+      "id": "fact-1",
+      "title": "Cleopatra and the Moon Landing",
+      "category": "Perspective",
+      "date": "c. 30 BCE",
+      "description": "Cleopatra VII lived closer in time to the Apollo 11 Moon landing in 1969 than to the construction of the Great Pyramid of Giza, which was completed more than 2,400 years before her lifetime.",
+      "civilization": "Ptolemaic Egypt"
+    },
+    {
+      "id": "fact-2",
+      "title": "Oxford Is Older Than the Aztec Empire",
+      "category": "Timeline",
+      "date": "Teaching recorded by 1096 CE",
+      "description": "Teaching existed at Oxford centuries before the Aztec Empire emerged in central Mexico. Oxford had scholars by the late 11th century, while the Mexica founded Tenochtitlan in 1325.",
+      "civilization": "Medieval Europe"
+    },
+    {
+      "id": "fact-3",
+      "title": "Woolly Mammoths Survived the Pyramids",
+      "category": "Perspective",
+      "date": "Until c. 1650 BCE",
+      "description": "Small populations of woolly mammoths survived on Wrangel Island long after the Great Pyramid of Giza had already been built. They disappeared only many centuries later.",
+      "civilization": "Bronze Age"
+    },
+    {
+      "id": "fact-4",
+      "title": "Ancient Romans Had Fast Food",
+      "category": "Daily Life",
+      "date": "Roman Imperial Period",
+      "description": "Roman cities contained small food shops known today as thermopolia, where customers could buy prepared food and drinks from counters fitted with large storage jars.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-5",
+      "title": "Pompeii Had Election Advertising",
+      "category": "Politics",
+      "date": "1st century CE",
+      "description": "Walls in Pompeii preserve painted messages supporting candidates for local office. Shopkeepers, workers, associations, and ordinary residents publicly endorsed political candidates.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-6",
+      "title": "The Romans Used Concrete Underwater",
+      "category": "Engineering",
+      "date": "Roman Period",
+      "description": "Roman builders created harbor structures using concrete mixtures containing volcanic ash. Some of these structures hardened in seawater and survived for centuries.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-7",
+      "title": "The Great Pyramid Was Once White",
+      "category": "Architecture",
+      "date": "c. 26th century BCE",
+      "description": "The Great Pyramid of Giza was originally covered with smooth white limestone casing stones that reflected sunlight and gave the monument a much brighter appearance than it has today.",
+      "civilization": "Old Kingdom Egypt"
+    },
+    {
+      "id": "fact-8",
+      "title": "Egyptians Recorded Workers’ Absences",
+      "category": "Daily Life",
+      "date": "New Kingdom Egypt",
+      "description": "Ancient Egyptian administrative records list reasons workers missed their duties, including illness, family responsibilities, religious observances, and other everyday circumstances.",
+      "civilization": "New Kingdom of Egypt"
+    },
+    {
+      "id": "fact-9",
+      "title": "One Ancient Egyptian Strike Is Recorded",
+      "category": "Labor",
+      "date": "c. 1150s BCE",
+      "description": "Workers at Deir el-Medina protested after their grain payments were delayed during the reign of Ramesses III. Their action is among the earliest well-documented labor strikes in history.",
+      "civilization": "New Kingdom of Egypt"
+    },
+    {
+      "id": "fact-10",
+      "title": "Purple Was Extremely Expensive",
+      "category": "Luxury",
+      "date": "Ancient Mediterranean",
+      "description": "Tyrian purple dye was made from marine snails and required enormous quantities of raw material. Its cost helped turn purple clothing into a symbol of royalty, wealth, and high status.",
+      "civilization": "Phoenician and Roman Worlds"
+    },
+    {
+      "id": "fact-11",
+      "title": "Roman Purple Could Signal Power",
+      "category": "Society",
+      "date": "Roman Period",
+      "description": "Roman clothing regulations connected certain purple garments and borders with political rank. The strongest forms of imperial purple became closely associated with emperors.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-12",
+      "title": "Vikings Reached North America",
+      "category": "Exploration",
+      "date": "c. 1000 CE",
+      "description": "Norse explorers established a settlement at L’Anse aux Meadows in present-day Newfoundland centuries before Columbus crossed the Atlantic.",
+      "civilization": "Viking Age"
+    },
+    {
+      "id": "fact-13",
+      "title": "Baghdad Was Built as a Round City",
+      "category": "Urban Design",
+      "date": "Founded 762 CE",
+      "description": "The original Abbasid capital of Baghdad was planned as a circular city, with the caliph’s palace and major mosque placed near the center.",
+      "civilization": "Abbasid Golden Age"
+    },
+    {
+      "id": "fact-14",
+      "title": "Medieval Baghdad Had Major Hospitals",
+      "category": "Medicine",
+      "date": "Abbasid Period",
+      "description": "Baghdad became known for organized hospitals where physicians treated patients, taught medicine, and developed medical knowledge within a sophisticated urban healthcare tradition.",
+      "civilization": "Abbasid Golden Age"
+    },
+    {
+      "id": "fact-15",
+      "title": "Algebra Gets Its Name from Arabic",
+      "category": "Mathematics",
+      "date": "9th century CE",
+      "description": "The word “algebra” comes from al-jabr, a term used in the title of a mathematical work by al-Khwarizmi.",
+      "civilization": "Abbasid Golden Age"
+    },
+    {
+      "id": "fact-16",
+      "title": "Paper Money Appeared Long Before Modern Banknotes",
+      "category": "Finance",
+      "date": "10th–11th century CE",
+      "description": "Paper money was used in China centuries before it became common in Europe. Song authorities eventually issued government-backed notes for commercial use.",
+      "civilization": "Song Dynasty Innovation Age"
+    },
+    {
+      "id": "fact-17",
+      "title": "China Printed Books Before Gutenberg",
+      "category": "Communication",
+      "date": "Before the 15th century",
+      "description": "Woodblock printing had been used in China for centuries before Gutenberg developed his famous European movable-type printing system.",
+      "civilization": "Tang and Song China"
+    },
+    {
+      "id": "fact-18",
+      "title": "A Printed Book Survives from 868",
+      "category": "Books",
+      "date": "868 CE",
+      "description": "The Diamond Sutra, printed in China in 868, is one of the earliest known complete dated printed books.",
+      "civilization": "Tang Dynasty"
+    },
+    {
+      "id": "fact-19",
+      "title": "The Song Dynasty Used Paper Currency",
+      "category": "Economy",
+      "date": "11th century CE",
+      "description": "Song China developed some of the earliest government-issued paper currency systems, partly because large quantities of metal coins were difficult to transport.",
+      "civilization": "Song Dynasty Innovation Age"
+    },
+    {
+      "id": "fact-20",
+      "title": "The Inca Built Roads Without Wheels for Transport",
+      "category": "Infrastructure",
+      "date": "15th–16th century CE",
+      "description": "The Inca Empire maintained a road system stretching for tens of thousands of kilometers even though wheeled vehicles were not part of its transport network. People and llamas carried goods instead.",
+      "civilization": "Inca Empire"
+    },
+    {
+      "id": "fact-21",
+      "title": "Inca Messengers Worked in Relays",
+      "category": "Communication",
+      "date": "Inca Period",
+      "description": "Special runners known as chasquis carried messages and small goods along the imperial road system using relay stations, allowing information to travel rapidly across the Andes.",
+      "civilization": "Inca Empire"
+    },
+    {
+      "id": "fact-22",
+      "title": "The Maya Used Zero",
+      "category": "Mathematics",
+      "date": "By the Classic Maya Period",
+      "description": "Maya mathematicians independently developed a true zero symbol and used it in calendrical calculations long before zero became standard in medieval European mathematics.",
+      "civilization": "Classic Maya Civilization"
+    },
+    {
+      "id": "fact-23",
+      "title": "Maya Cities Were Not Empty Ceremonial Centers",
+      "category": "Urban Life",
+      "date": "Classic Period",
+      "description": "Large Maya cities contained royal compounds, temples, reservoirs, workshops, marketplaces, homes, roads, and agricultural zones supporting substantial populations.",
+      "civilization": "Classic Maya Civilization"
+    },
+    {
+      "id": "fact-24",
+      "title": "The Aztec Capital Was Built on a Lake",
+      "category": "Cities",
+      "date": "Founded 1325 CE",
+      "description": "Tenochtitlan was built on islands in Lake Texcoco and connected by causeways. Canals, aqueducts, markets, temples, and raised agricultural fields supported one of the largest cities in the Americas.",
+      "civilization": "Aztec Empire"
+    },
+    {
+      "id": "fact-25",
+      "title": "Tenochtitlan Had an Enormous Market",
+      "category": "Economy",
+      "date": "Early 16th century",
+      "description": "Spanish observers described the market at Tlatelolco as a huge organized commercial center where thousands of people traded food, textiles, tools, luxury goods, and other products.",
+      "civilization": "Aztec Empire"
+    },
+    {
+      "id": "fact-26",
+      "title": "Mansa Musa Became Famous Far Beyond Mali",
+      "category": "Wealth",
+      "date": "1324–1325 CE",
+      "description": "Mansa Musa’s pilgrimage to Mecca attracted enormous attention because of his wealth and entourage, helping make Mali known across North Africa, the Middle East, and Europe.",
+      "civilization": "Mali Empire under Mansa Musa"
+    },
+    {
+      "id": "fact-27",
+      "title": "Timbuktu Was a Center of Scholarship",
+      "category": "Education",
+      "date": "Medieval and Early Modern West Africa",
+      "description": "Timbuktu became famous for scholars, manuscript collections, mosques, and advanced study in fields such as law, theology, grammar, and astronomy.",
+      "civilization": "Mali and Songhai Empires"
+    },
+    {
+      "id": "fact-28",
+      "title": "Venice Was Built on Wooden Piles",
+      "category": "Engineering",
+      "date": "Medieval Venice",
+      "description": "Many Venetian structures were supported by timber piles driven into waterlogged ground. In low-oxygen conditions, submerged wood can survive for extremely long periods.",
+      "civilization": "Venetian Republic"
+    },
+    {
+      "id": "fact-29",
+      "title": "The Black Death Changed Labor Markets",
+      "category": "Society",
+      "date": "14th century CE",
+      "description": "The massive population losses caused by the Black Death reduced the available workforce in many European regions, allowing some surviving workers to demand better wages and conditions.",
+      "civilization": "Late Medieval Europe"
+    },
+    {
+      "id": "fact-30",
+      "title": "Medieval Universities Are Older Than Many Modern States",
+      "category": "Education",
+      "date": "11th–13th centuries CE",
+      "description": "Universities such as Bologna, Oxford, and Paris developed centuries before many present-day nation-states took their modern political form.",
+      "civilization": "Medieval Europe"
+    },
+    {
+      "id": "fact-31",
+      "title": "Leonardo and Columbus Were Contemporaries",
+      "category": "Perspective",
+      "date": "Late 15th century",
+      "description": "Leonardo da Vinci was already an established artist and engineer when Christopher Columbus made his first Atlantic voyage in 1492.",
+      "civilization": "Italian Renaissance"
+    },
+    {
+      "id": "fact-32",
+      "title": "The Mona Lisa and the Aztec Empire Overlapped",
+      "category": "Timeline",
+      "date": "Early 16th century",
+      "description": "Leonardo was working on the Mona Lisa during the same general period that the Aztec Empire ruled much of central Mexico.",
+      "civilization": "Renaissance / Aztec Empire"
+    },
+    {
+      "id": "fact-33",
+      "title": "Michelangelo Lived to See the Early Telescope Era Approach",
+      "category": "Perspective",
+      "date": "1475–1564 CE",
+      "description": "Michelangelo lived well into the 16th century, only a few decades before telescopes began transforming European astronomy in the early 1600s.",
+      "civilization": "Italian Renaissance"
+    },
+    {
+      "id": "fact-34",
+      "title": "The Ottoman Empire Existed Alongside Photography",
+      "category": "Perspective",
+      "date": "Photography emerged in the 19th century",
+      "description": "The Ottoman Empire lasted until 1922, meaning its later sultans, cities, armies, and everyday life were extensively photographed.",
+      "civilization": "Late Ottoman Empire"
+    },
+    {
+      "id": "fact-35",
+      "title": "Samurai Lived in the Age of Telegraphs",
+      "category": "Perspective",
+      "date": "19th century CE",
+      "description": "The final decades of the samurai class overlapped with steamships, photography, railways, telegraph systems, and early modern industry.",
+      "civilization": "Late Edo / Meiji Transformation"
+    },
+    {
+      "id": "fact-36",
+      "title": "Abraham Lincoln Could Have Sent a Telegraph",
+      "category": "Technology",
+      "date": "1860s CE",
+      "description": "During the American Civil War, President Abraham Lincoln used telegraph communications extensively to receive military information and communicate with commanders.",
+      "civilization": "19th-Century United States"
+    },
+    {
+      "id": "fact-37",
+      "title": "The Eiffel Tower Was Initially Temporary",
+      "category": "Architecture",
+      "date": "1889 CE",
+      "description": "The Eiffel Tower was built for the 1889 Exposition Universelle and originally faced strong criticism from some artists and writers. Its initial concession was temporary rather than permanent.",
+      "civilization": "Belle Époque France"
+    },
+    {
+      "id": "fact-38",
+      "title": "The First Films Were Only Seconds Long",
+      "category": "Media",
+      "date": "1890s CE",
+      "description": "Many of the earliest motion pictures consisted of very short scenes showing everyday activities, workers, trains, streets, or staged performances.",
+      "civilization": "Belle Époque"
+    },
+    {
+      "id": "fact-39",
+      "title": "The First Powered Flight Was Shorter Than a Modern Airliner",
+      "category": "Aviation",
+      "date": "1903 CE",
+      "description": "The Wright brothers’ first powered flight lasted only 12 seconds and covered about 37 meters—shorter than the length of many modern passenger aircraft.",
+      "civilization": "Early Aviation Age"
+    },
+    {
+      "id": "fact-40",
+      "title": "Humans Reached the Moon Before Luggage Got Wheels",
+      "category": "Perspective",
+      "date": "1969 vs. 1970s",
+      "description": "Apollo 11 landed humans on the Moon in 1969, while wheeled suitcases only became commercially common in the following years.",
+      "civilization": "Space Age"
+    },
+    {
+      "id": "fact-41",
+      "title": "Ancient Egyptians Used Toothpaste",
+      "category": "Daily Life",
+      "date": "Ancient Egypt",
+      "description": "Some ancient Egyptian recipes describe tooth-cleaning mixtures made from ingredients such as powdered minerals, ash, and aromatic substances.",
+      "civilization": "Ancient Egypt"
+    },
+    {
+      "id": "fact-42",
+      "title": "Roman Apartments Could Be Several Stories High",
+      "category": "Urban Life",
+      "date": "Roman Imperial Period",
+      "description": "Many ordinary Romans lived in apartment buildings called insulae. Some rose several stories above crowded city streets and contained shops on the ground floor.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-43",
+      "title": "Romans Used Underfloor Heating",
+      "category": "Engineering",
+      "date": "Roman Period",
+      "description": "Roman baths and wealthy homes sometimes used hypocaust systems that circulated hot air beneath floors and through wall spaces.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-44",
+      "title": "Julius Caesar Was Kidnapped by Pirates",
+      "category": "People",
+      "date": "1st century BCE",
+      "description": "As a young man, Julius Caesar was captured by pirates in the Mediterranean. After being released for ransom, he later organized forces that captured them.",
+      "civilization": "Late Roman Republic"
+    },
+    {
+      "id": "fact-45",
+      "title": "Ancient Greeks Used Vending Machines",
+      "category": "Technology",
+      "date": "1st century CE",
+      "description": "Hero of Alexandria described a device that dispensed a measured amount of holy water when a coin was inserted.",
+      "civilization": "Hellenistic and Roman Egypt"
+    },
+    {
+      "id": "fact-46",
+      "title": "Sparta Had Two Kings at Once",
+      "category": "Politics",
+      "date": "Classical Greece",
+      "description": "Sparta traditionally had two hereditary kings from separate royal families ruling at the same time, alongside other political institutions.",
+      "civilization": "Classical Greece"
+    },
+    {
+      "id": "fact-47",
+      "title": "Athens Paid Citizens for Public Service",
+      "category": "Democracy",
+      "date": "5th century BCE",
+      "description": "Athens introduced payments for some civic duties, including jury service, making political participation easier for citizens who could not afford to serve without compensation.",
+      "civilization": "Classical Athens"
+    },
+    {
+      "id": "fact-48",
+      "title": "The Parthenon Was Once a Church and a Mosque",
+      "category": "Architecture",
+      "date": "Post-Classical Period",
+      "description": "After its original use as a temple to Athena, the Parthenon was later adapted as a Christian church and, under Ottoman rule, as a mosque.",
+      "civilization": "Classical Athens / Later Mediterranean History"
+    },
+    {
+      "id": "fact-49",
+      "title": "Roman Emperors Had Official Food Tasters",
+      "category": "Court Life",
+      "date": "Roman Imperial Period",
+      "description": "Members of elite Roman households, including emperors, sometimes relied on servants tasked with tasting food because poisoning was a genuine political fear.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-50",
+      "title": "The Colosseum Had a Retractable Awning",
+      "category": "Engineering",
+      "date": "1st century CE",
+      "description": "The Colosseum used a large fabric awning system, known as the velarium, to provide partial shade for spectators.",
+      "civilization": "Roman Imperial Age"
+    },
+    {
+      "id": "fact-51",
+      "title": "Hadrian’s Wall Was Not Rome’s Northernmost Frontier Forever",
+      "category": "Military",
+      "date": "2nd century CE",
+      "description": "Roman forces later pushed farther north and built the Antonine Wall in present-day Scotland, though Hadrian’s Wall eventually remained the more durable frontier line.",
+      "civilization": "Roman Britain"
+    },
+    {
+      "id": "fact-52",
+      "title": "Constantinople Had a Massive Underground Water System",
+      "category": "Infrastructure",
+      "date": "Byzantine Period",
+      "description": "Byzantine Constantinople relied on aqueducts and enormous underground cisterns to store fresh water for its large population.",
+      "civilization": "Byzantine Empire"
+    },
+    {
+      "id": "fact-53",
+      "title": "Byzantine Fire Weapons Terrified Enemies",
+      "category": "Military Technology",
+      "date": "Byzantine Period",
+      "description": "Byzantine forces used an incendiary weapon known as Greek fire, especially in naval warfare. Its exact composition remains uncertain.",
+      "civilization": "Byzantine Empire"
+    },
+    {
+      "id": "fact-54",
+      "title": "Vikings Had Long-Distance Trade Networks",
+      "category": "Trade",
+      "date": "Viking Age",
+      "description": "Viking traders connected Scandinavia with the British Isles, continental Europe, the Baltic, Byzantium, and regions linked to the Islamic world.",
+      "civilization": "Viking Age"
+    },
+    {
+      "id": "fact-55",
+      "title": "Viking Silver Came from Far Away",
+      "category": "Trade",
+      "date": "8th–11th centuries CE",
+      "description": "Large numbers of Islamic silver coins have been found in Scandinavia, showing the extent of Viking-era trade connections with eastern markets.",
+      "civilization": "Viking Age"
+    },
+    {
+      "id": "fact-56",
+      "title": "Medieval Monks Preserved Classical Texts",
+      "category": "Knowledge",
+      "date": "Middle Ages",
+      "description": "Monastic scriptoria copied religious works but also preserved many classical Latin texts that might otherwise have disappeared.",
+      "civilization": "Medieval Europe"
+    },
+    {
+      "id": "fact-57",
+      "title": "Charlemagne Was Crowned Emperor in Rome",
+      "category": "Politics",
+      "date": "800 CE",
+      "description": "Pope Leo III crowned Charlemagne emperor in Rome on Christmas Day in 800, creating a powerful new imperial claim in western Europe.",
+      "civilization": "Carolingian Renaissance"
+    },
+    {
+      "id": "fact-58",
+      "title": "Medieval Cathedrals Could Take Centuries to Finish",
+      "category": "Architecture",
+      "date": "Middle Ages",
+      "description": "Some major European cathedrals were built in stages across several generations, meaning the people who began construction often never saw the final structure.",
+      "civilization": "High Medieval Europe"
+    },
+    {
+      "id": "fact-59",
+      "title": "Universities Used Latin Across Borders",
+      "category": "Education",
+      "date": "Medieval Europe",
+      "description": "Latin served as a shared academic language in many medieval universities, allowing scholars from different regions to study and teach across Europe.",
+      "civilization": "Medieval Europe"
+    },
+    {
+      "id": "fact-60",
+      "title": "Mongol Rule Connected Distant Regions",
+      "category": "Trade",
+      "date": "13th–14th centuries CE",
+      "description": "The Mongol Empire and its successor states linked large parts of Eurasia under related political systems, encouraging movement of merchants, diplomats, technologies, and ideas.",
+      "civilization": "Mongol Empire"
+    },
+    {
+      "id": "fact-61",
+      "title": "Kublai Khan Ruled China as an Emperor",
+      "category": "Politics",
+      "date": "13th century CE",
+      "description": "Kublai Khan, grandson of Genghis Khan, founded the Yuan dynasty and ruled China as emperor while remaining part of the wider Mongol imperial tradition.",
+      "civilization": "Yuan Dynasty"
+    },
+    {
+      "id": "fact-62",
+      "title": "The Black Death Traveled Along Trade Routes",
+      "category": "Disease",
+      "date": "14th century CE",
+      "description": "The plague spread across Eurasia through interconnected trade and transport networks, reaching many major ports and cities within a relatively short period.",
+      "civilization": "Late Medieval Europe"
+    },
+    {
+      "id": "fact-63",
+      "title": "Renaissance Artists Studied Human Anatomy",
+      "category": "Art / Science",
+      "date": "Renaissance",
+      "description": "Some Renaissance artists studied dissected bodies to better understand muscles, bones, proportions, and movement.",
+      "civilization": "Italian Renaissance"
+    },
+    {
+      "id": "fact-64",
+      "title": "Leonardo Filled Notebooks with Engineering Ideas",
+      "category": "Innovation",
+      "date": "Late 15th–early 16th century",
+      "description": "Leonardo da Vinci produced extensive notebooks containing studies of anatomy, hydraulics, flight, machines, weapons, architecture, and mechanics.",
+      "civilization": "Italian Renaissance"
+    },
+    {
+      "id": "fact-65",
+      "title": "Venice Had an Early Public Health System",
+      "category": "Medicine",
+      "date": "Late Medieval / Renaissance Venice",
+      "description": "Venetian authorities developed organized quarantine measures to control epidemic disease, including isolation practices for arriving ships and travelers.",
+      "civilization": "Venetian Republic"
+    },
+    {
+      "id": "fact-66",
+      "title": "The Word “Quarantine” Comes from Forty Days",
+      "category": "Language",
+      "date": "Medieval Mediterranean",
+      "description": "The term “quarantine” comes from the Italian quaranta, meaning forty, reflecting historical isolation periods used during plague outbreaks.",
+      "civilization": "Late Medieval Europe"
+    },
+    {
+      "id": "fact-67",
+      "title": "Samurai Wrote Poetry",
+      "category": "Culture",
+      "date": "Medieval and Early Modern Japan",
+      "description": "Samurai culture was not limited to warfare. Many warriors studied literature, calligraphy, philosophy, poetry, and other arts.",
+      "civilization": "Feudal Japan / Edo Japan"
+    }
+  ],
+  "research": [
+    {
+      "id": "research-1",
+      "title": "How did the Nile shape the power of ancient Egypt?",
+      "difficulty": "Easy",
+      "date": "Ancient Egypt"
+    },
+    {
+      "id": "research-2",
+      "title": "Why were Egyptian pharaohs able to build such enormous monuments?",
+      "difficulty": "Medium",
+      "date": "Old Kingdom Egypt"
+    },
+    {
+      "id": "research-3",
+      "title": "How did trade with Nubia strengthen the New Kingdom?",
+      "difficulty": "Medium",
+      "date": "16th–11th c. BCE"
+    },
+    {
+      "id": "research-4",
+      "title": "Why was the Achaemenid Empire able to control such a large territory?",
+      "difficulty": "Medium",
+      "date": "6th–4th c. BCE"
+    },
+    {
+      "id": "research-5",
+      "title": "How did the Royal Road help Persian rulers govern their empire?",
+      "difficulty": "Easy",
+      "date": "5th c. BCE"
+    },
+    {
+      "id": "research-6",
+      "title": "How did the Delian League tribute shape Athenian democracy?",
+      "difficulty": "Medium",
+      "date": "5th c. BCE"
+    },
+    {
+      "id": "research-7",
+      "title": "Why did Athens become such an important cultural center?",
+      "difficulty": "Medium",
+      "date": "5th c. BCE"
+    },
+    {
+      "id": "research-8",
+      "title": "How did slavery affect Athenian democracy?",
+      "difficulty": "Hard",
+      "date": "Classical Greece"
+    },
+    {
+      "id": "research-9",
+      "title": "Why was Sparta’s political system so different from Athens?",
+      "difficulty": "Medium",
+      "date": "Classical Greece"
+    },
+    {
+      "id": "research-10",
+      "title": "How did Alexander the Great spread Greek culture beyond Greece?",
+      "difficulty": "Medium",
+      "date": "4th c. BCE"
+    },
+    {
+      "id": "research-11",
+      "title": "Why did Alexander’s empire break apart so quickly after his death?",
+      "difficulty": "Medium",
+      "date": "323 BCE"
+    },
+    {
+      "id": "research-12",
+      "title": "What made Alexandria one of the greatest intellectual centers of the ancient world?",
+      "difficulty": "Medium",
+      "date": "Hellenistic Age"
+    },
+    {
+      "id": "research-13",
+      "title": "How did Roman roads strengthen the empire?",
+      "difficulty": "Easy",
+      "date": "Roman Republic / Empire"
+    },
+    {
+      "id": "research-14",
+      "title": "Why was Roman citizenship such a powerful political tool?",
+      "difficulty": "Hard",
+      "date": "Roman Empire"
+    },
+    {
+      "id": "research-15",
+      "title": "How did Roman engineering change everyday urban life?",
+      "difficulty": "Medium",
+      "date": "Roman Imperial Age"
+    },
+    {
+      "id": "research-16",
+      "title": "Why was the Roman army so effective for so long?",
+      "difficulty": "Medium",
+      "date": "Roman Empire"
+    },
+    {
+      "id": "research-17",
+      "title": "How did trade contribute to the prosperity of the Roman Empire?",
+      "difficulty": "Medium",
+      "date": "1st–2nd c. CE"
+    },
+    {
+      "id": "research-18",
+      "title": "Why did the western Roman Empire collapse while the eastern empire survived?",
+      "difficulty": "Hard",
+      "date": "4th–5th c. CE"
+    },
+    {
+      "id": "research-19",
+      "title": "How did Constantinople’s location shape Byzantine power?",
+      "difficulty": "Medium",
+      "date": "Byzantine Empire"
+    },
+    {
+      "id": "research-20",
+      "title": "Why was Justinian’s legal reform historically important?",
+      "difficulty": "Medium",
+      "date": "6th c. CE"
+    },
+    {
+      "id": "research-21",
+      "title": "How did the Silk Road influence Han China?",
+      "difficulty": "Medium",
+      "date": "Han Dynasty"
+    },
+    {
+      "id": "research-22",
+      "title": "Why did paper become such an important Chinese invention?",
+      "difficulty": "Easy",
+      "date": "Han China"
+    },
+    {
+      "id": "research-23",
+      "title": "How did Confucian ideas influence Han government?",
+      "difficulty": "Hard",
+      "date": "Han Dynasty"
+    },
+    {
+      "id": "research-24",
+      "title": "Why was Chang’an one of the world’s most cosmopolitan cities?",
+      "difficulty": "Medium",
+      "date": "Tang Dynasty"
+    },
+    {
+      "id": "research-25",
+      "title": "How did foreign trade influence Tang culture?",
+      "difficulty": "Medium",
+      "date": "7th–9th c. CE"
+    },
+    {
+      "id": "research-26",
+      "title": "Why did the Song economy become so commercially advanced?",
+      "difficulty": "Hard",
+      "date": "10th–13th c. CE"
+    },
+    {
+      "id": "research-27",
+      "title": "How did printing change Chinese education and government?",
+      "difficulty": "Medium",
+      "date": "Song Dynasty"
+    },
+    {
+      "id": "research-28",
+      "title": "Why was paper money useful in Song China?",
+      "difficulty": "Easy",
+      "date": "11th c. CE"
+    },
+    {
+      "id": "research-29",
+      "title": "What made the House of Wisdom different from earlier libraries?",
+      "difficulty": "Hard",
+      "date": "9th c. CE"
+    },
+    {
+      "id": "research-30",
+      "title": "Why did Baghdad become a major center of science and scholarship?",
+      "difficulty": "Medium",
+      "date": "Abbasid Golden Age"
+    },
+    {
+      "id": "research-31",
+      "title": "How did translation shape scientific development in the Abbasid world?",
+      "difficulty": "Hard",
+      "date": "8th–10th c. CE"
+    },
+    {
+      "id": "research-32",
+      "title": "Why was algebra such an important breakthrough?",
+      "difficulty": "Medium",
+      "date": "9th c. CE"
+    },
+    {
+      "id": "research-33",
+      "title": "How did Islamic trade networks connect distant civilizations?",
+      "difficulty": "Medium",
+      "date": "Medieval Islamic World"
+    },
+    {
+      "id": "research-34",
+      "title": "Why did Córdoba become an important center of knowledge?",
+      "difficulty": "Medium",
+      "date": "10th c. CE"
+    },
+    {
+      "id": "research-35",
+      "title": "How did Mansa Musa’s pilgrimage change the world’s view of Mali?",
+      "difficulty": "Easy",
+      "date": "14th c. CE"
+    },
+    {
+      "id": "research-36",
+      "title": "Why was gold so important to the Mali Empire?",
+      "difficulty": "Medium",
+      "date": "13th–14th c. CE"
+    },
+    {
+      "id": "research-37",
+      "title": "How did Timbuktu become a center of scholarship?",
+      "difficulty": "Medium",
+      "date": "Mali / Songhai Era"
+    },
+    {
+      "id": "research-38",
+      "title": "How did Angkor’s water systems support a huge urban population?",
+      "difficulty": "Hard",
+      "date": "Khmer Empire"
+    },
+    {
+      "id": "research-39",
+      "title": "Why was Angkor Wat both a religious and political monument?",
+      "difficulty": "Medium",
+      "date": "12th c. CE"
+    },
+    {
+      "id": "research-40",
+      "title": "How did the Mongol Empire increase connections across Eurasia?",
+      "difficulty": "Medium",
+      "date": "13th c. CE"
+    },
+    {
+      "id": "research-41",
+      "title": "Why were Mongol armies so effective across different environments?",
+      "difficulty": "Hard",
+      "date": "13th c. CE"
+    },
+    {
+      "id": "research-42",
+      "title": "How did trade flourish under Mongol rule?",
+      "difficulty": "Medium",
+      "date": "13th–14th c. CE"
+    },
+    {
+      "id": "research-43",
+      "title": "Why did Venice become such a powerful trading city?",
+      "difficulty": "Medium",
+      "date": "Late Medieval Europe"
+    },
+    {
+      "id": "research-44",
+      "title": "How did banking help Florence become a Renaissance center?",
+      "difficulty": "Hard",
+      "date": "14th–15th c. CE"
+    },
+    {
+      "id": "research-45",
+      "title": "Why was patronage so important to Renaissance art?",
+      "difficulty": "Medium",
+      "date": "Italian Renaissance"
+    },
+    {
+      "id": "research-46",
+      "title": "How did linear perspective change European painting?",
+      "difficulty": "Easy",
+      "date": "15th c. CE"
+    },
+    {
+      "id": "research-47",
+      "title": "How did the printing press change the spread of ideas?",
+      "difficulty": "Medium",
+      "date": "15th–16th c. CE"
+    },
+    {
+      "id": "research-48",
+      "title": "Why did Portugal become an early leader in ocean exploration?",
+      "difficulty": "Medium",
+      "date": "15th c. CE"
+    },
+    {
+      "id": "research-49",
+      "title": "How did new navigation tools change long-distance travel?",
+      "difficulty": "Medium",
+      "date": "Age of Exploration"
+    },
+    {
+      "id": "research-50",
+      "title": "How did maritime expansion change global trade?",
+      "difficulty": "Hard",
+      "date": "15th–17th c. CE"
+    },
+    {
+      "id": "research-51",
+      "title": "Why did the Ottoman Empire flourish under Suleiman the Magnificent?",
+      "difficulty": "Medium",
+      "date": "16th c. CE"
+    },
+    {
+      "id": "research-52",
+      "title": "How did Istanbul benefit from its geographic position?",
+      "difficulty": "Easy",
+      "date": "Ottoman Empire"
+    },
+    {
+      "id": "research-53",
+      "title": "How did Ottoman architecture express imperial power?",
+      "difficulty": "Medium",
+      "date": "15th–16th c. CE"
+    },
+    {
+      "id": "research-54",
+      "title": "How did the Mughal Empire combine different cultural traditions?",
+      "difficulty": "Medium",
+      "date": "16th–17th c. CE"
+    },
+    {
+      "id": "research-55",
+      "title": "Why was Akbar’s rule important for Mughal stability?",
+      "difficulty": "Hard",
+      "date": "16th c. CE"
+    },
+    {
+      "id": "research-56",
+      "title": "How did architecture support Mughal political prestige?",
+      "difficulty": "Medium",
+      "date": "Mughal Empire"
+    },
+    {
+      "id": "research-57",
+      "title": "Why did Amsterdam become a major financial center?",
+      "difficulty": "Hard",
+      "date": "Dutch Golden Age"
+    },
+    {
+      "id": "research-58",
+      "title": "How did Dutch maritime trade affect art and science?",
+      "difficulty": "Medium",
+      "date": "17th c. CE"
+    },
+    {
+      "id": "research-59",
+      "title": "Why were maps so important to the Dutch Republic?",
+      "difficulty": "Medium",
+      "date": "17th c. CE"
+    },
+    {
+      "id": "research-60",
+      "title": "How did Edo Japan achieve long-term internal stability?",
+      "difficulty": "Medium",
+      "date": "17th–19th c. CE"
+    },
+    {
+      "id": "research-61",
+      "title": "How did high literacy change life in Edo Japan?",
+      "difficulty": "Medium",
+      "date": "Edo Period"
+    },
+    {
+      "id": "research-62",
+      "title": "Why did Japan modernize so rapidly during the Meiji era?",
+      "difficulty": "Hard",
+      "date": "1868–1912 CE"
+    },
+    {
+      "id": "research-63",
+      "title": "How did railways transform Meiji Japan?",
+      "difficulty": "Easy",
+      "date": "Late 19th c. CE"
+    },
+    {
+      "id": "research-64",
+      "title": "Why did Britain industrialize before many other countries?",
+      "difficulty": "Hard",
+      "date": "18th c. CE"
+    },
+    {
+      "id": "research-65",
+      "title": "How did steam power change work and transport?",
+      "difficulty": "Medium",
+      "date": "Industrial Revolution"
+    },
+    {
+      "id": "research-66",
+      "title": "How did industrialization change urban life?",
+      "difficulty": "Medium",
+      "date": "19th c. CE"
+    },
+    {
+      "id": "research-67",
+      "title": "Why did railways reshape national economies?",
+      "difficulty": "Hard",
+      "date": "19th c. CE"
+    },
+    {
+      "id": "research-68",
+      "title": "How did the telegraph change politics, trade, and war?",
+      "difficulty": "Medium",
+      "date": "19th c. CE"
+    },
+    {
+      "id": "research-69",
+      "title": "Why was Paris such an important cultural center during the Belle Époque?",
+      "difficulty": "Medium",
+      "date": "1871–1914 CE"
+    },
+    {
+      "id": "research-70",
+      "title": "How did electricity change everyday city life?",
+      "difficulty": "Easy",
+      "date": "Late 19th c. CE"
+    },
+    {
+      "id": "research-71",
+      "title": "How did photography change the way history was recorded?",
+      "difficulty": "Medium",
+      "date": "19th c. CE"
+    },
+    {
+      "id": "research-72",
+      "title": "Why did cinema become a major new form of mass culture?",
+      "difficulty": "Medium",
+      "date": "Late 19th–early 20th c. CE"
+    },
+    {
+      "id": "research-73",
+      "title": "How did antibiotics transform modern medicine?",
+      "difficulty": "Easy",
+      "date": "20th c. CE"
+    },
+    {
+      "id": "research-74",
+      "title": "How did radar change warfare and aviation?",
+      "difficulty": "Medium",
+      "date": "1930s–1940s"
+    },
+    {
+      "id": "research-75",
+      "title": "Why was the transistor more important than a simple smaller vacuum tube?",
+      "difficulty": "Hard",
+      "date": "Postwar Era"
+    },
+    {
+      "id": "research-76",
+      "title": "How did computers change scientific research after World War II?",
+      "difficulty": "Medium",
+      "date": "1940s–1960s"
+    },
+    {
+      "id": "research-77",
+      "title": "Why did the Space Race accelerate technological innovation?",
+      "difficulty": "Medium",
+      "date": "1950s–1960s"
+    },
+    {
+      "id": "research-78",
+      "title": "How did the Apollo program influence technologies outside space exploration?",
+      "difficulty": "Hard",
+      "date": "1960s"
+    },
+    {
+      "id": "research-79",
+      "title": "Why do historians disagree about what counts as a “Golden Age”?",
+      "difficulty": "Hard",
+      "date": "Comparative History"
+    },
+    {
+      "id": "research-80",
+      "title": "Can a Golden Age for rulers also be a difficult period for ordinary people?",
+      "difficulty": "Hard",
+      "date": "Comparative History"
+    },
+    {
+      "id": "research-81",
+      "title": "Which matters more for a Golden Age: wealth, stability, culture, or innovation?",
+      "difficulty": "Hard",
+      "date": "Comparative History"
+    },
+    {
+      "id": "research-82",
+      "title": "How can historians compare civilizations without judging them by modern standards?",
+      "difficulty": "Hard",
+      "date": "Historical Method"
+    },
+    {
+      "id": "research-83",
+      "title": "Why can the same historical period look different depending on whose perspective we study?",
+      "difficulty": "Hard",
+      "date": "Historical Method"
+    },
+    {
+      "id": "research-84",
+      "title": "How do inventions spread from one civilization to another?",
+      "difficulty": "Medium",
+      "date": "Cross-Civilizational History"
+    },
+    {
+      "id": "research-85",
+      "title": "Why do some inventions appear long before societies use them widely?",
+      "difficulty": "Hard",
+      "date": "History of Technology"
+    },
+    {
+      "id": "research-86",
+      "title": "What makes a city become a center of knowledge?",
+      "difficulty": "Medium",
+      "date": "Comparative History"
+    },
+    {
+      "id": "research-87",
+      "title": "Why do trade routes often become routes for ideas and religions too?",
+      "difficulty": "Medium",
+      "date": "World History"
+    },
+    {
+      "id": "research-88",
+      "title": "How can climate affect the rise and decline of civilizations?",
+      "difficulty": "Hard",
+      "date": "Environmental History"
+    },
+    {
+      "id": "research-89",
+      "title": "Why are periods of political stability often connected with cultural growth?",
+      "difficulty": "Medium",
+      "date": "Comparative History"
+    },
+    {
+      "id": "research-90",
+      "title": "Does military expansion always make an empire richer?",
+      "difficulty": "Hard",
+      "date": "Comparative History"
+    }
+  ],
+  "folders": [
+    {
+      "id": "folder-0",
+      "title": "Classical Greece"
+    },
+    {
+      "id": "folder-1",
+      "title": "Ancient Egypt"
+    },
+    {
+      "id": "folder-2",
+      "title": "Roman World"
+    },
+    {
+      "id": "folder-3",
+      "title": "Islamic Golden Age"
+    },
+    {
+      "id": "folder-4",
+      "title": "China Through the Golden Ages"
+    },
+    {
+      "id": "folder-5",
+      "title": "Renaissance & Exploration"
+    },
+    {
+      "id": "folder-6",
+      "title": "Industrial & Modern Transformation"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card-0-0",
+      "folderId": "folder-0",
+      "question": "Who led Athens during much of its cultural and political peak in the 5th century BCE?",
+      "answer": "Pericles (c. 495–429 BCE).",
+      "category": "People, Athens, 5th c. BCE",
+      "learned": false
+    },
+    {
+      "id": "card-0-1",
+      "folderId": "folder-0",
+      "question": "What was the Delian League originally created to do?",
+      "answer": "It was formed as an alliance of Greek city-states to continue resistance against Persia after the Persian Wars.",
+      "category": "Politics, Delian League, 5th c. BCE",
+      "learned": false
+    },
+    {
+      "id": "card-0-2",
+      "folderId": "folder-0",
+      "question": "Which building became the most famous monument of Classical Athens?",
+      "answer": "The Parthenon on the Acropolis.",
+      "category": "Architecture, Athens, Parthenon",
+      "learned": false
+    },
+    {
+      "id": "card-0-3",
+      "folderId": "folder-0",
+      "question": "What was the main political institution in which eligible Athenian citizens could vote directly?",
+      "answer": "The Assembly, or Ekklesia.",
+      "category": "Democracy, Politics, Athens",
+      "learned": false
+    },
+    {
+      "id": "card-0-4",
+      "folderId": "folder-0",
+      "question": "Which philosopher is associated with the method of questioning later called the Socratic method?",
+      "answer": "Socrates.",
+      "category": "Philosophy, People, Socrates",
+      "learned": false
+    },
+    {
+      "id": "card-0-5",
+      "folderId": "folder-0",
+      "question": "What major conflict weakened Athens near the end of the 5th century BCE?",
+      "answer": "The Peloponnesian War against Sparta and its allies.",
+      "category": "War, Athens, Sparta",
+      "learned": false
+    },
+    {
+      "id": "card-1-0",
+      "folderId": "folder-1",
+      "question": "Which river was central to agriculture and transport in ancient Egypt?",
+      "answer": "The Nile River.",
+      "category": "Geography, Nile, Ancient Egypt",
+      "learned": false
+    },
+    {
+      "id": "card-1-1",
+      "folderId": "folder-1",
+      "question": "Which period is associated with rulers such as Hatshepsut, Thutmose III, and Ramesses II?",
+      "answer": "The New Kingdom.",
+      "category": "New Kingdom, Pharaohs, Egypt",
+      "learned": false
+    },
+    {
+      "id": "card-1-2",
+      "folderId": "folder-1",
+      "question": "Where were many New Kingdom pharaohs buried?",
+      "answer": "In the Valley of the Kings.",
+      "category": "Burial, Valley of the Kings, New Kingdom",
+      "learned": false
+    },
+    {
+      "id": "card-1-3",
+      "folderId": "folder-1",
+      "question": "Which female pharaoh organized major building projects and trade expeditions, including one to Punt?",
+      "answer": "Hatshepsut.",
+      "category": "People, Hatshepsut, Trade",
+      "learned": false
+    },
+    {
+      "id": "card-1-4",
+      "folderId": "folder-1",
+      "question": "What writing material was commonly made from the papyrus plant?",
+      "answer": "Papyrus sheets used for writing and record keeping.",
+      "category": "Writing, Papyrus, Daily Life",
+      "learned": false
+    },
+    {
+      "id": "card-1-5",
+      "folderId": "folder-1",
+      "question": "Which Egyptian ruler introduced a major religious focus on the Aten?",
+      "answer": "Akhenaten.",
+      "category": "Religion, Akhenaten, New Kingdom",
+      "learned": false
+    },
+    {
+      "id": "card-1-6",
+      "folderId": "folder-1",
+      "question": "Why was Nubia important to ancient Egypt?",
+      "answer": "It was important for trade, strategic control, and access to resources such as gold.",
+      "category": "Trade, Nubia, Economy",
+      "learned": false
+    },
+    {
+      "id": "card-2-0",
+      "folderId": "folder-2",
+      "question": "What was the Pax Romana?",
+      "answer": "A long period of relative political stability and imperial peace beginning under Augustus.",
+      "category": "Politics, Pax Romana, Roman Empire",
+      "learned": false
+    },
+    {
+      "id": "card-2-1",
+      "folderId": "folder-2",
+      "question": "Who became Rome’s first emperor?",
+      "answer": "Augustus.",
+      "category": "People, Augustus, Empire",
+      "learned": false
+    },
+    {
+      "id": "card-2-2",
+      "folderId": "folder-2",
+      "question": "What was the main purpose of Roman aqueducts?",
+      "answer": "To transport fresh water into cities and settlements.",
+      "category": "Engineering, Aqueducts, Infrastructure",
+      "learned": false
+    },
+    {
+      "id": "card-2-3",
+      "folderId": "folder-2",
+      "question": "What was a Roman legion?",
+      "answer": "A major military unit of the Roman army composed of thousands of soldiers.",
+      "category": "Military, Legion, Rome",
+      "learned": false
+    },
+    {
+      "id": "card-2-4",
+      "folderId": "folder-2",
+      "question": "Why were Roman roads strategically important?",
+      "answer": "They allowed faster movement of armies, officials, messages, and goods across the empire.",
+      "category": "Roads, Infrastructure, Military",
+      "learned": false
+    },
+    {
+      "id": "card-2-5",
+      "folderId": "folder-2",
+      "question": "Which amphitheater in Rome became famous for gladiatorial spectacles?",
+      "answer": "The Colosseum.",
+      "category": "Architecture, Entertainment, Rome",
+      "learned": false
+    },
+    {
+      "id": "card-2-6",
+      "folderId": "folder-2",
+      "question": "What language dominated administration in the western Roman Empire?",
+      "answer": "Latin.",
+      "category": "Language, Administration, Rome",
+      "learned": false
+    },
+    {
+      "id": "card-2-7",
+      "folderId": "folder-2",
+      "question": "What city became the major capital of the eastern Roman Empire?",
+      "answer": "Constantinople.",
+      "category": "Cities, Byzantine Empire, Rome",
+      "learned": false
+    },
+    {
+      "id": "card-3-0",
+      "folderId": "folder-3",
+      "question": "Which city became the political and intellectual center of the Abbasid Caliphate?",
+      "answer": "Baghdad.",
+      "category": "Baghdad, Abbasids, Cities",
+      "learned": false
+    },
+    {
+      "id": "card-3-1",
+      "folderId": "folder-3",
+      "question": "What was the House of Wisdom associated with?",
+      "answer": "Translation, scholarship, scientific study, and intellectual exchange in Abbasid Baghdad.",
+      "category": "Knowledge, House of Wisdom, Baghdad",
+      "learned": false
+    },
+    {
+      "id": "card-3-2",
+      "folderId": "folder-3",
+      "question": "Which mathematician is closely associated with the development of algebra?",
+      "answer": "Al-Khwarizmi.",
+      "category": "Mathematics, Al-Khwarizmi, Algebra",
+      "learned": false
+    },
+    {
+      "id": "card-3-3",
+      "folderId": "folder-3",
+      "question": "From which Arabic word does the term “algebra” derive?",
+      "answer": "Al-jabr.",
+      "category": "Mathematics, Language, Algebra",
+      "learned": false
+    },
+    {
+      "id": "card-3-4",
+      "folderId": "folder-3",
+      "question": "Which scholar made major contributions to optics and the study of vision?",
+      "answer": "Ibn al-Haytham.",
+      "category": "Science, Optics, Ibn al-Haytham",
+      "learned": false
+    },
+    {
+      "id": "card-3-5",
+      "folderId": "folder-3",
+      "question": "Why did paper become important in the Islamic world?",
+      "answer": "It made copying books, administrative records, and scholarly works cheaper and more practical.",
+      "category": "Paper, Writing, Knowledge",
+      "learned": false
+    },
+    {
+      "id": "card-3-6",
+      "folderId": "folder-3",
+      "question": "What made Baghdad economically important?",
+      "answer": "Its position within extensive trade networks linking regions of Asia, Africa, and the Mediterranean.",
+      "category": "Trade, Economy, Baghdad",
+      "learned": false
+    },
+    {
+      "id": "card-3-7",
+      "folderId": "folder-3",
+      "question": "Which medical tradition became strongly developed in major Islamic cities?",
+      "answer": "Organized hospitals, medical education, pharmacy, and clinical scholarship.",
+      "category": "Medicine, Hospitals, Science",
+      "learned": false
+    },
+    {
+      "id": "card-3-8",
+      "folderId": "folder-3",
+      "question": "Which West European city became a major center of Islamic scholarship under Umayyad rule?",
+      "answer": "Córdoba.",
+      "category": "Córdoba, Education, Al-Andalus",
+      "learned": false
+    },
+    {
+      "id": "card-4-0",
+      "folderId": "folder-4",
+      "question": "Which dynasty is strongly associated with the early development of paper?",
+      "answer": "The Han Dynasty.",
+      "category": "Han Dynasty, Paper, Inventions",
+      "learned": false
+    },
+    {
+      "id": "card-4-1",
+      "folderId": "folder-4",
+      "question": "Who is traditionally credited with improving papermaking around 105 CE?",
+      "answer": "Cai Lun.",
+      "category": "People, Cai Lun, Paper",
+      "learned": false
+    },
+    {
+      "id": "card-4-2",
+      "folderId": "folder-4",
+      "question": "Which Tang capital became one of the world’s most cosmopolitan cities?",
+      "answer": "Chang’an.",
+      "category": "Tang Dynasty, Cities, Chang’an",
+      "learned": false
+    },
+    {
+      "id": "card-4-3",
+      "folderId": "folder-4",
+      "question": "Which major trade network linked China with Central Asia and regions farther west?",
+      "answer": "The Silk Road.",
+      "category": "Trade, Silk Road, China",
+      "learned": false
+    },
+    {
+      "id": "card-4-4",
+      "folderId": "folder-4",
+      "question": "Which dynasty is associated with movable type developed by Bi Sheng?",
+      "answer": "The Song Dynasty.",
+      "category": "Song Dynasty, Printing, Inventions",
+      "learned": false
+    },
+    {
+      "id": "card-4-5",
+      "folderId": "folder-4",
+      "question": "What financial innovation became widely used under the Song government?",
+      "answer": "Government-issued paper money.",
+      "category": "Finance, Song Dynasty, Paper Money",
+      "learned": false
+    },
+    {
+      "id": "card-4-6",
+      "folderId": "folder-4",
+      "question": "Which navigation device became increasingly important in Song-era maritime travel?",
+      "answer": "The magnetic compass.",
+      "category": "Navigation, Compass, Song Dynasty",
+      "learned": false
+    },
+    {
+      "id": "card-4-7",
+      "folderId": "folder-4",
+      "question": "What explosive technology originated in China and later transformed warfare worldwide?",
+      "answer": "Gunpowder.",
+      "category": "Military, Gunpowder, Inventions",
+      "learned": false
+    },
+    {
+      "id": "card-4-8",
+      "folderId": "folder-4",
+      "question": "Which philosophical tradition became especially influential in imperial government and education?",
+      "answer": "Confucianism.",
+      "category": "Philosophy, Government, China",
+      "learned": false
+    },
+    {
+      "id": "card-4-9",
+      "folderId": "folder-4",
+      "question": "Why was printing especially important in imperial China?",
+      "answer": "It supported education, administration, literature, religious texts, and the wider circulation of knowledge.",
+      "category": "Printing, Education, Knowledge",
+      "learned": false
+    },
+    {
+      "id": "card-5-0",
+      "folderId": "folder-5",
+      "question": "Which Italian city became a major center of Renaissance art and banking?",
+      "answer": "Florence.",
+      "category": "Florence, Renaissance, Cities",
+      "learned": false
+    },
+    {
+      "id": "card-5-1",
+      "folderId": "folder-5",
+      "question": "Who is closely associated with the formal development of linear perspective?",
+      "answer": "Filippo Brunelleschi.",
+      "category": "Art, Perspective, Brunelleschi",
+      "learned": false
+    },
+    {
+      "id": "card-5-2",
+      "folderId": "folder-5",
+      "question": "Which family became famous for political influence and artistic patronage in Florence?",
+      "answer": "The Medici family.",
+      "category": "Medici, Florence, Patronage",
+      "learned": false
+    },
+    {
+      "id": "card-5-3",
+      "folderId": "folder-5",
+      "question": "Who developed the European movable-type printing press in the 15th century?",
+      "answer": "Johannes Gutenberg.",
+      "category": "Printing, Gutenberg, Inventions",
+      "learned": false
+    },
+    {
+      "id": "card-5-4",
+      "folderId": "folder-5",
+      "question": "Which country became an early leader in Atlantic maritime exploration?",
+      "answer": "Portugal.",
+      "category": "Exploration, Portugal, Navigation",
+      "learned": false
+    },
+    {
+      "id": "card-5-5",
+      "folderId": "folder-5",
+      "question": "Who reached India by sea from Europe by sailing around Africa in 1498?",
+      "answer": "Vasco da Gama.",
+      "category": "People, Exploration, Vasco da Gama",
+      "learned": false
+    },
+    {
+      "id": "card-5-6",
+      "folderId": "folder-5",
+      "question": "What was a caravel?",
+      "answer": "A relatively small and maneuverable sailing ship used in Portuguese exploration.",
+      "category": "Ships, Caravel, Navigation",
+      "learned": false
+    },
+    {
+      "id": "card-6-0",
+      "folderId": "folder-6",
+      "question": "Which country became the first major center of the Industrial Revolution?",
+      "answer": "Great Britain.",
+      "category": "Industry, Britain, 18th c. CE",
+      "learned": false
+    },
+    {
+      "id": "card-6-1",
+      "folderId": "folder-6",
+      "question": "Who introduced major improvements to the steam engine in the 18th century?",
+      "answer": "James Watt.",
+      "category": "People, Steam Engine, Industry",
+      "learned": false
+    },
+    {
+      "id": "card-6-2",
+      "folderId": "folder-6",
+      "question": "What did the spinning jenny increase?",
+      "answer": "The amount of yarn that a worker could spin at one time.",
+      "category": "Textiles, Spinning Jenny, Industry",
+      "learned": false
+    },
+    {
+      "id": "card-6-3",
+      "folderId": "folder-6",
+      "question": "Why were railways so important to industrial economies?",
+      "answer": "They moved people, raw materials, and manufactured goods much faster and more cheaply over land.",
+      "category": "Railways, Transport, Economy",
+      "learned": false
+    },
+    {
+      "id": "card-6-4",
+      "folderId": "folder-6",
+      "question": "What did the electric telegraph make possible?",
+      "answer": "Near-instant long-distance communication using electrical signals.",
+      "category": "Communication, Telegraph, Technology",
+      "learned": false
+    },
+    {
+      "id": "card-6-5",
+      "folderId": "folder-6",
+      "question": "Which invention made direct visual records of people and events possible in the 19th century?",
+      "answer": "Photography.",
+      "category": "Photography, Media, 19th c. CE",
+      "learned": false
+    },
+    {
+      "id": "card-6-6",
+      "folderId": "folder-6",
+      "question": "Who is associated with the discovery of penicillin’s antibacterial effect in 1928?",
+      "answer": "Alexander Fleming.",
+      "category": "Medicine, Penicillin, Fleming",
+      "learned": false
+    },
+    {
+      "id": "card-6-7",
+      "folderId": "folder-6",
+      "question": "What electronic component helped replace bulky vacuum tubes after 1947?",
+      "answer": "The transistor.",
+      "category": "Electronics, Transistor, Technology",
+      "learned": false
+    },
+    {
+      "id": "card-6-8",
+      "folderId": "folder-6",
+      "question": "What major achievement did Apollo 11 accomplish in 1969?",
+      "answer": "It landed humans on the Moon for the first time.",
+      "category": "Space, Apollo 11, 1969",
+      "learned": false
+    },
+    {
+      "id": "card-6-9",
+      "folderId": "folder-6",
+      "question": "Why was the integrated circuit important?",
+      "answer": "It allowed many electronic components to be combined on a small semiconductor chip.",
+      "category": "Computing, Integrated Circuit, Electronics",
+      "learned": false
+    },
+    {
+      "id": "card-6-10",
+      "folderId": "folder-6",
+      "question": "What technology made powered controlled flight possible at the beginning of the 20th century?",
+      "answer": "The powered airplane.",
+      "category": "Aviation, Airplane, Technology",
+      "learned": false
+    }
+  ]
+}

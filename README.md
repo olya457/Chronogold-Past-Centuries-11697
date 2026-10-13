@@ -1,97 +1,49 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Chronogold · Past Centuries
 
-# Getting Started
+React Native and TypeScript mobile application with React Navigation. All images are bundled from `src/assets`; all historical library content comes from the supplied text files. The app works offline.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
-
-## Step 1: Start Metro
-
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
-
-To start the Metro dev server, run the following command from the root of your React Native project:
+## Run
 
 ```sh
-# Using npm
+npm install
 npm start
-
-# OR using Yarn
-yarn start
 ```
 
-## Step 2: Build and run your app
-
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
-
-### Android
+In another terminal:
 
 ```sh
-# Using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### iOS
-
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
-
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
-
-```sh
-bundle install
-```
-
-Then, and every time you update your native dependencies, run:
-
-```sh
-bundle exec pod install
-```
-
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
-
-```sh
-# Using npm
 npm run ios
-
-# OR using Yarn
-yarn ios
+npm run android
 ```
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+For the initial iOS setup, run `bundle install` and `cd ios && bundle exec pod install`. CocoaPods must use a modern Ruby runtime matching the project's bundle. Pods have already been installed in this checkout.
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+## Structure
 
-## Step 3: Modify your app
+- `src/navigation`: typed native stack and floating bottom navigation
+- `src/screens`: loader, onboarding, Explore, Compare, Tools, Facts, Learn, detail and study screens
+- `src/components`: reusable controls, sheets, forms and radar charts
+- `src/store`: persistent application state with serialized AsyncStorage writes
+- `src/data/library.json`: 37 periods, 60 inventions, 67 facts, 90 research prompts and 58 flashcards in 7 folders
+- `src/utils`: year calculations and score helpers
+- `src/assets`: supplied local artwork
 
-Now that you have successfully run the app, let's make changes!
+## Behavior
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+The local WebView loader animates for four seconds. Onboarding is remembered after Begin or Skip. Saved entries, created entries, comparison selections, personal ratings, research notes, completed research, folders and flashcard mastery persist across app restarts. User activity starts empty.
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+Explore supports search, favorites, details and creation. Compare accepts up to three periods. The source material contains no numerical power ratings; users enter their own 0–100 ratings in each period's detail page before using radar charts and rankings.
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+Tools calculates durations without a year zero, gaps between entered events and approximate journey times. Journey estimates use an explicit distance or city coordinates with a 1.35 route multiplier and assumed daily speeds. These are planning estimates, not verified historical routes.
 
-## Congratulations! :tada:
+Facts supports categories, search, daily rotation, favorites, creation and the native share sheet. Learn supports research notes and completion, folder creation/renaming/deletion, flashcard creation/editing/deletion, answer reveal and learned/review states.
 
-You've successfully run and modified your React Native App. :partying_face:
+## Checks
 
-### Now what?
+```sh
+npm run typecheck
+npm test -- --runInBand --watchman=false
+npm run lint
+```
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Tests cover BCE/CE boundaries, library consistency, storage restoration, onboarding, loader completion, fact creation, comparison selection limits and study progress.
