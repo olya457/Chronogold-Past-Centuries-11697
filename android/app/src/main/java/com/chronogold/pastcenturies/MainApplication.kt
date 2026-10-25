@@ -1,4 +1,4 @@
-package com.chronogoldpastcenturies
+package com.chronogold.pastcenturies
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -1,4 +1,4 @@
-package com.chronogoldpastcenturies
+package com.chronogold.pastcenturies
 
 import android.os.Bundle
 import com.swmansion.rnscreens.fragment.restoration.RNScreensFragmentFactory
