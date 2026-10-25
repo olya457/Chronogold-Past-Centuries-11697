@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { gradients } from '../theme';
 import { Alert, Share, Text, View } from 'react-native';
 import { GradientSurface } from '../components/GradientSurface';
 import {
@@ -42,7 +43,7 @@ export function FactsScreen() {
           icon="↥"
           onPress={() => {
             Share.share({
-              message: `${e.title}\n\n${e.description}\n\n${e.civilization} · ${e.date}\nChronogold`,
+              message: `${e.title}\n\n${e.description}\n\n${e.civilization} · ${e.date}\nAncient Era Atlas`,
             }).catch(() =>
               Alert.alert('Sharing unavailable', 'Please try again.'),
             );
@@ -81,12 +82,14 @@ export function FactsScreen() {
     >
       {fact && !saved && (
         <GradientSurface
-          colors={['#75502c', '#133626', '#101f16']}
+          colors={gradients.feature}
           start={{ x: 1, y: 0 }}
           end={{ x: 0, y: 1 }}
-          style={[s.card, { padding: 22, borderColor: '#ac723b66' }]}
+          style={[s.card, { padding: 22, borderColor: colors.line }]}
         >
-          <Text style={[s.label, { color: '#ffbf7c' }]}>FACT OF THE DAY</Text>
+          <Text style={[s.label, { color: colors.orange }]}>
+            FACT OF THE DAY
+          </Text>
           <Text style={[s.h2, { fontSize: 28 }]}>{fact.title}</Text>
           <Text style={[s.body, { color: colors.text }]}>
             {fact.description}

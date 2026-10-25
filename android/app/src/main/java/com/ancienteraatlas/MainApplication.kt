@@ -1,4 +1,4 @@
-package com.chronogold.pastcenturies
+package com.ancienteraatlas
 
 import android.app.Application
 import com.facebook.react.PackageList

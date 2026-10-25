@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ActivityIndicator, View } from 'react-native';
-import { NavigationContainer, DarkTheme } from '@react-navigation/native';
+import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { RootStack } from '../types';
@@ -58,9 +58,9 @@ export function AppNavigator() {
   return (
     <NavigationContainer
       theme={{
-        ...DarkTheme,
+        ...DefaultTheme,
         colors: {
-          ...DarkTheme.colors,
+          ...DefaultTheme.colors,
           background: colors.bg,
           card: colors.panel,
           text: colors.text,

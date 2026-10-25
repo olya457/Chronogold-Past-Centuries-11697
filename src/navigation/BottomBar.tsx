@@ -1,4 +1,5 @@
 import React from 'react';
+import { colors, gradients } from '../theme';
 import { Pressable, View } from 'react-native';
 import { BottomTabBarProps } from '@react-navigation/bottom-tabs';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -7,7 +8,7 @@ import Svg, { Circle, Ellipse, Path, Rect } from 'react-native-svg';
 import { useLayout } from '../hooks/useLayout';
 import { Reveal } from '../components/Motion';
 function TabIcon({ index, active }: { index: number; active: boolean }) {
-  const color = active ? '#132016' : '#acb8a6';
+  const color = active ? colors.onAccent : colors.muted;
   return (
     <Svg
       width={24}
@@ -60,12 +61,12 @@ function BottomBar({ state, navigation }: BottomTabBarProps) {
       }}
     >
       <GradientSurface
-        colors={['#193325', '#0a1710']}
+        colors={gradients.navigation}
         style={{
           width: '100%',
           maxWidth: 500,
           borderWidth: 1,
-          borderColor: '#65795d66',
+          borderColor: colors.line,
           borderRadius: 40,
           flexDirection: 'row',
           padding: 7,
@@ -95,7 +96,7 @@ function BottomBar({ state, navigation }: BottomTabBarProps) {
             <Reveal revision={state.index === i ? 1 : 0}>
               {state.index === i ? (
                 <GradientSurface
-                  colors={['#ffbf82', '#ff8a35']}
+                  colors={gradients.button}
                   style={{
                     height: 46,
                     width: 46,

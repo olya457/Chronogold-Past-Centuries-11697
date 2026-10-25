@@ -1,7 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import {
   Animated,
-  ImageBackground,
   KeyboardAvoidingView,
   Modal,
   Platform,
@@ -18,15 +17,8 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useLayout } from '../hooks/useLayout';
 import { useReducedMotion } from '../hooks/useReducedMotion';
 import { ChronoAtmosphere, Reveal, usePressMotion } from './Motion';
-export const colors = {
-  bg: '#06110c',
-  panel: '#132019',
-  line: '#2a382e',
-  text: '#f1eddf',
-  muted: '#9aa99c',
-  orange: '#ff8a35',
-  green: '#4eae8a',
-};
+import { colors, gradients } from '../theme';
+export { colors } from '../theme';
 export const serif = Platform.OS === 'ios' ? 'Georgia' : 'serif';
 export const s = StyleSheet.create({
   row: { flexDirection: 'row', alignItems: 'center', gap: 10 },
@@ -46,16 +38,16 @@ export const s = StyleSheet.create({
     fontWeight: '600',
   },
   card: {
-    backgroundColor: '#132019dc',
+    backgroundColor: colors.panel,
     borderWidth: 1,
-    borderColor: '#ffffff12',
+    borderColor: colors.line,
     borderRadius: 24,
     padding: 18,
     gap: 12,
     marginBottom: 12,
   },
   input: {
-    backgroundColor: '#ffffff07',
+    backgroundColor: colors.surface,
     borderWidth: 1,
     borderColor: colors.line,
     borderRadius: 15,
@@ -70,7 +62,7 @@ export const s = StyleSheet.create({
     borderRadius: 24,
     borderWidth: 1,
     borderColor: colors.line,
-    backgroundColor: '#18251e',
+    backgroundColor: colors.surface,
   },
   chipText: { fontSize: 11, color: colors.muted },
   section: {
@@ -114,12 +106,12 @@ export function Button({
       >
         <LinearGradient
           pointerEvents="none"
-          colors={['#ffbc7b', '#ff8733']}
+          colors={gradients.button}
           style={StyleSheet.absoluteFill}
         />
         <Text
           style={{
-            color: '#10170e',
+            color: colors.onAccent,
             fontWeight: '700',
             fontSize: 14,
             lineHeight: 22,
@@ -157,7 +149,7 @@ export function IconButton({
           width: 44,
           height: 44,
           borderRadius: 22,
-          backgroundColor: active ? '#8c522c' : '#ffffff0c',
+          backgroundColor: active ? colors.selected : colors.panel,
           borderWidth: 1,
           borderColor: colors.line,
           alignItems: 'center',
@@ -189,10 +181,7 @@ export function Screen({
   const insets = useSafeAreaInsets();
   const layout = useLayout();
   return (
-    <ImageBackground
-      source={require('../assets/chronogold-background.png')}
-      style={{ flex: 1 }}
-    >
+    <GradientSurface colors={gradients.background} style={{ flex: 1 }}>
       <ChronoAtmosphere />
       <KeyboardAvoidingView
         style={{ flex: 1 }}
@@ -234,7 +223,7 @@ export function Screen({
           </Reveal>
         </ScrollView>
       </KeyboardAvoidingView>
-    </ImageBackground>
+    </GradientSurface>
   );
 }
 export function Card({ children }: { children: React.ReactNode }) {
@@ -269,7 +258,7 @@ export function Field({
         value={value}
         onChangeText={onChange}
         placeholder={placeholder}
-        placeholderTextColor="#6f8376"
+        placeholderTextColor={colors.muted}
         multiline={multiline}
         keyboardType={numeric ? 'numbers-and-punctuation' : 'default'}
         style={[
@@ -311,7 +300,7 @@ export function Chips({
           <Text
             style={[
               s.chipText,
-              value === x && { color: colors.bg, fontWeight: '700' },
+              value === x && { color: colors.onAccent, fontWeight: '700' },
             ]}
           >
             {x}
@@ -334,7 +323,7 @@ export function Tabs({
     <View
       style={{
         flexDirection: 'row',
-        backgroundColor: '#ffffff08',
+        backgroundColor: colors.surface,
         padding: 4,
         borderRadius: 30,
         borderWidth: 1,
@@ -351,7 +340,7 @@ export function Tabs({
         >
           {value === x ? (
             <GradientSurface
-              colors={['#ffbe80', '#ff8838']}
+              colors={gradients.button}
               style={{
                 borderRadius: 24,
                 paddingVertical: 11,
@@ -364,7 +353,7 @@ export function Tabs({
               <Text
                 style={{
                   fontSize: 12,
-                  color: colors.bg,
+                  color: colors.onAccent,
                   fontWeight: '700',
                   textAlign: 'center',
                 }}
@@ -425,7 +414,7 @@ export function Sheet({
             width: '100%',
             maxWidth: 640,
             alignSelf: 'center',
-            backgroundColor: '#0e1e15',
+            backgroundColor: colors.panel,
             borderTopLeftRadius: 30,
             borderTopRightRadius: 30,
             padding: layout.gutter,
@@ -491,7 +480,7 @@ export function Bar({
       style={{
         height: 5,
         borderRadius: 4,
-        backgroundColor: '#ffffff12',
+        backgroundColor: colors.line,
         overflow: 'hidden',
       }}
     >

@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 import { NavigationContext } from '@react-navigation/native';
 import Svg, { Circle, Path } from 'react-native-svg';
+import { colors } from '../theme';
 import { useReducedMotion } from '../hooks/useReducedMotion';
 export function Reveal({
   children,
@@ -139,7 +140,7 @@ export function ChronoAtmosphere() {
           height={300}
           viewBox="0 0 300 300"
           fill="none"
-          stroke="#d6a35d"
+          stroke={colors.orange}
         >
           <Circle cx={150} cy={150} r={126} />
           <Circle cx={150} cy={150} r={112} strokeDasharray="1 11" />

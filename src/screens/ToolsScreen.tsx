@@ -1,6 +1,15 @@
 import React, { useState } from 'react';
 import { Text, View } from 'react-native';
-import { Card, Chips, Field, Screen, Tabs, s, serif } from '../components/UI';
+import {
+  Card,
+  Chips,
+  Field,
+  Screen,
+  Tabs,
+  colors,
+  s,
+  serif,
+} from '../components/UI';
 import { centuriesCovered, validYear, yearDistance } from '../utils/history';
 const cities: Record<string, [number, number]> = {
   Rome: [41.9028, 12.4964],
@@ -36,9 +45,9 @@ function Result({
   unit?: string;
 }) {
   return (
-    <View style={[s.card, { backgroundColor: '#b77a3c25', marginTop: 8 }]}>
+    <View style={[s.card, { backgroundColor: colors.surface, marginTop: 8 }]}>
       <Text style={s.label}>{label}</Text>
-      <Text style={{ fontFamily: serif, fontSize: 40, color: '#ffb273' }}>
+      <Text style={{ fontFamily: serif, fontSize: 40, color: colors.orange }}>
         {value}
       </Text>
       {unit && <Text style={s.chipText}>{unit}</Text>}
@@ -102,7 +111,7 @@ export function ToolsScreen() {
         <Text
           style={[
             s.h2,
-            { color: '#cf9863', fontStyle: 'italic', fontSize: 21 },
+            { color: colors.orange, fontStyle: 'italic', fontSize: 21 },
           ]}
         >
           {tab === 'Era'

@@ -1,20 +1,21 @@
 import React, { useEffect, useRef, useState } from 'react';
 import {
   Image,
-  ImageBackground,
   Pressable,
   ScrollView,
   Text,
   useWindowDimensions,
   View,
 } from 'react-native';
+import { GradientSurface } from '../components/GradientSurface';
+import { gradients } from '../theme';
 import { WebView } from 'react-native-webview';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Button, colors, s, serif } from '../components/UI';
 import { useApp } from '../store/AppStore';
 import { ChronoAtmosphere, Reveal } from '../components/Motion';
 import { useLayout } from '../hooks/useLayout';
-const loaderHtml = `<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1"><style>html,body{margin:0;background:transparent;overflow:hidden}main{padding:15px 24px;text-align:center}section{height:3px;width:160px;background:#6f5838;border-radius:4px;overflow:hidden;margin:0 auto 15px}i{display:block;background:linear-gradient(90deg,#ff8531,#ffc385);height:100%;width:0;animation:load 4s linear forwards}p{color:#aaa88d;font:10px -apple-system,sans-serif;letter-spacing:2px}@keyframes load{to{width:100%}}</style></head><body><main><section><i></i></section><p>UNEARTHING HISTORY</p></main><script>setTimeout(function(){window.ReactNativeWebView.postMessage('finished')},4000)</script></body></html>`;
+const loaderHtml = `<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1"><style>html,body{margin:0;background:transparent;overflow:hidden}main{padding:15px 24px;text-align:center}section{height:3px;width:160px;background:${colors.line};border-radius:4px;overflow:hidden;margin:0 auto 15px}i{display:block;background:linear-gradient(90deg,${gradients.button[0]},${gradients.button[1]});height:100%;width:0;animation:load 4s linear forwards}p{color:${colors.muted};font:10px -apple-system,sans-serif;letter-spacing:2px}@keyframes load{to{width:100%}}</style></head><body><main><section><i></i></section><p>UNEARTHING HISTORY</p></main><script>setTimeout(function(){window.ReactNativeWebView.postMessage('finished')},4000)</script></body></html>`;
 export function LoaderScreen({ onDone }: { onDone: () => void }) {
   const { height, width } = useWindowDimensions();
   const finished = useRef(false);
@@ -32,12 +33,19 @@ export function LoaderScreen({ onDone }: { onDone: () => void }) {
     [],
   );
   return (
-    <ImageBackground
-      source={require('../assets/chronogold-background.png')}
-      style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}
+    <GradientSurface
+      colors={gradients.background}
+      style={{
+        flex: 1,
+        backgroundColor: colors.bg,
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
     >
       <ChronoAtmosphere />
-      <Reveal style={{ alignItems: 'center' }}>
+      <Reveal
+        style={{ alignItems: 'center', width: '100%', paddingHorizontal: 24 }}
+      >
         <Image
           source={require('../assets/chronogold-emblem.png')}
           resizeMode="contain"
@@ -58,23 +66,25 @@ export function LoaderScreen({ onDone }: { onDone: () => void }) {
           numberOfLines={1}
           style={{
             fontFamily: serif,
-            color: '#ffaa68',
-            fontSize: Math.min(width * 0.14, 64),
+            color: colors.text,
+            fontSize: Math.min(width * 0.085, 42),
+            textAlign: 'center',
+            width: '100%',
             marginTop: 8,
           }}
         >
-          Chronogold
+          Ancient Era Atlas
         </Text>
         <Text
           style={{
             fontFamily: serif,
             fontStyle: 'italic',
-            color: '#c9bea7',
+            color: colors.muted,
             fontSize: 23,
             marginTop: 14,
           }}
         >
-          Past Centuries
+          Discover the ancient world
         </Text>
       </Reveal>
       <View style={{ height: 85, width: 240, marginTop: height * 0.06 }}>
@@ -94,7 +104,7 @@ export function LoaderScreen({ onDone }: { onDone: () => void }) {
           }}
         />
       </View>
-    </ImageBackground>
+    </GradientSurface>
   );
 }
 const slides = [
@@ -128,10 +138,7 @@ export function OnboardingScreen() {
   const slide = slides[index];
   const done = () => update(st => ({ ...st, onboarded: true }));
   return (
-    <ImageBackground
-      source={require('../assets/chronogold-background.png')}
-      style={{ flex: 1 }}
-    >
+    <GradientSurface colors={gradients.background} style={{ flex: 1 }}>
       <ChronoAtmosphere />
       <ScrollView
         contentContainerStyle={{
@@ -188,8 +195,8 @@ export function OnboardingScreen() {
                   s.chip,
                   {
                     fontSize: 11,
-                    color: '#ffbd80',
-                    borderColor: '#75502c',
+                    color: colors.orange,
+                    borderColor: colors.line,
                     paddingVertical: 6,
                   },
                 ]}
@@ -226,7 +233,7 @@ export function OnboardingScreen() {
                 height: 6,
                 width: i === index ? 27 : 6,
                 borderRadius: 4,
-                backgroundColor: i === index ? colors.orange : '#455248',
+                backgroundColor: i === index ? colors.orange : colors.line,
               }}
             />
           ))}
@@ -236,6 +243,6 @@ export function OnboardingScreen() {
           onPress={() => (index === 2 ? done() : setIndex(index + 1))}
         />
       </View>
-    </ImageBackground>
+    </GradientSurface>
   );
 }

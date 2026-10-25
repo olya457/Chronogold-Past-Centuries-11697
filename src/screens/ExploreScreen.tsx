@@ -47,7 +47,7 @@ export function AgeCard({
                 s.chipText,
                 {
                   color: colors.text,
-                  backgroundColor: '#163b2b90',
+                  backgroundColor: colors.panel,
                   padding: 5,
                   borderRadius: 12,
                 },
@@ -140,7 +140,7 @@ export function ExploreScreen() {
   return (
     <Screen
       title="Explore"
-      eyebrow="CHRONOGOLD"
+      eyebrow="Ancient Era Atlas"
       actions={
         <IconButton
           label="Add entry"

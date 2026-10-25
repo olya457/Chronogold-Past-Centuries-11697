@@ -71,7 +71,7 @@ export function CompareScreen() {
                 borderWidth: 1,
                 borderColor: e ? chartColors[i] + '66' : colors.line,
                 borderRadius: 20,
-                backgroundColor: e ? '#ffffff06' : 'transparent',
+                backgroundColor: e ? colors.surface : 'transparent',
                 justifyContent: 'center',
                 gap: 8,
               }}
